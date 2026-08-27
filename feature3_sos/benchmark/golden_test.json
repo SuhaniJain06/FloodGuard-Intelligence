@@ -1,0 +1,1605 @@
+{
+    "version": "1.0",
+    "description": "Golden benchmark of 40 difficult real messages selected from the 300-message SOS extraction run. Expected values are manually grounded in the message text; null means not explicitly available.",
+    "source": "Pasted text(20260823-093208).txt",
+    "cases": [
+      {
+        "case_id": 2,
+        "message": "#KeralaSOS@CMOKerala almost 20-30 people stuck with no contact for last 3 days. Thottapuzha cherry, maramon near Marthoma church Sunday school. Need Food n Water n rescue#KeralaSOS #KeralaFloods #SOSKerala #maramon #Pathanamthitta #asianetnews",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "Thottapuzha Cherry, Maramon near Marthoma church Sunday school",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "20-30",
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "RESCUE",
+            "resources": [
+              "FOOD",
+              "WATER"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": false,
+            "shelter": false,
+            "rescue": true,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Range count + location + multiple needs"
+      },
+      {
+        "case_id": 7,
+        "message": "My friend Deepa Joseph along with 400 to 500 people are stranded in a camp at flat under construction at kadukutty, annanadu, chalakudy, please help them asap, they dont have food or water or means of communication #KeralaFloods @indiannavy @CMOKerala @asianetnewstv plz rescueὤF",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "Kadukutty, Ananadu, Chalakudy",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "400-500",
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "RESCUE",
+            "resources": [
+              "FOOD",
+              "WATER"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": false,
+            "shelter": false,
+            "rescue": true,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Range count written as 400 to 500"
+      },
+      {
+        "case_id": 8,
+        "message": "They have been stranded since the past 2 days! No food nor medicines . THEY ARE all PHYSICALLY WEAK. #URGENT INTERVENTION REQUESTED. Kindly request @CMOKerala to PROVIDE THEM WITH FOOD SUPPLIES AT THE EARLIEST. Coordinates:- 9°2008.5N 76°3749.9E #KeralaFloods #KeralaSOS",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": null,
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD",
+              "MEDICINE"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": true,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "DMS-like GPS + negation: no food nor medicines; actually requests food supplies, medicine absent as request? Expected medicine true because message says no medicines."
+      },
+      {
+        "case_id": 9,
+        "message": "SEEKING IMMEDIATE EMERGENCY/EVACUATION IN PANDANADU AREA: NO FOOD AND CONTACT FOR LAST 72 HOURS Next to Pandanadu , On the terrace of health centre, blue building, 20-30 people stranded, seeking immediate evacuation (1/2) #KeralaFloods #URGENT",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "Pandanadu",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "20-30",
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "RESCUE",
+            "resources": [
+              "FOOD"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": true,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Range + evacuation + location"
+      },
+      {
+        "case_id": 10,
+        "message": "#keralaflood #urgent #thiruvalla 4 people including pregnant woman Surrounded by water No drinking water and toilet facility for last 3 to 4 days Lack of medicine too Contact no : 9961868847 GPS COORDINATES : 9.356785,76.576964 Verified at 11.15 pm 18/08/2018",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "Thiruvalla",
+            "latitude": 9.356785,
+            "longitude": 76.576964
+          },
+          "people": {
+            "total": "4",
+            "children": null,
+            "elderly": null,
+            "pregnant": "1",
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "MEDICAL",
+            "resources": [
+              "MEDICINE"
+            ]
+          },
+          "needs": {
+            "food": false,
+            "water": true,
+            "medicine": true,
+            "shelter": false,
+            "rescue": true,
+            "medical_transfer": false
+          },
+          "contact_info": [
+            "9961868847"
+          ]
+        },
+        "edge_cases": "Pregnant + GPS + water + medicine + rescue"
+      },
+      {
+        "case_id": 16,
+        "message": "URGENT appeal! Pregnant woman and a 5 year old child stranded at Edanad, Chengannur. low on food &amp; supplies. No rescue teams in Edanad. Contact - Raj Nair-95441 5306, Near Edanad Temple #KeralaSOS #KeralaFloods ⁦⁦@thenewsminute⁩ #Edanad",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "Edanad, Chengannur",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": "1",
+            "elderly": null,
+            "pregnant": "1",
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "RESCUE",
+            "resources": [
+              "FOOD"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": true,
+            "medical_transfer": false
+          },
+          "contact_info": [
+            "954415306"
+          ]
+        },
+        "edge_cases": "Child age is not child count; pregnant + location"
+      },
+      {
+        "case_id": 22,
+        "message": "need immediate attention to 50 stranded people and one kid passed away an hr back kindly assist connecting #KeralaFloods #KeralaSOS #Ernakulam Location:- Vadakkekara, North Paroor Opposite to Muziris Auditorium #verified 14.30 pm 18/8 no :- 8129499346 10°0951.8N 76°1224.4E",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "Vadakkekara, North Paroor, Opposite to Muziris Auditorium",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "50",
+            "children": "1",
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": "1",
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "RESCUE",
+            "resources": []
+          },
+          "needs": {
+            "food": false,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": true,
+            "medical_transfer": false
+          },
+          "contact_info": [
+            "8129499346"
+          ]
+        },
+        "edge_cases": "Deceased child + DMS GPS + explicit Location"
+      },
+      {
+        "case_id": 25,
+        "message": "14 people including 8 month pregnant lady, old patient lady ,4 years old kid . stranded without food. please provide food with recue team contact: 9495292782  #KeralaFloods #KeralaSOS #Chengannur",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "Chengannur",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "14",
+            "children": "1",
+            "elderly": "1",
+            "pregnant": "1",
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "RESCUE",
+            "resources": [
+              "FOOD"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": true,
+            "medical_transfer": false
+          },
+          "contact_info": [
+            "9495292782"
+          ]
+        },
+        "edge_cases": "Pregnant + elderly + child + food + rescue"
+      },
+      {
+        "case_id": 26,
+        "message": "We are seeing incredible traction in  resources. Please spread the word and let help reach everyone. We have contact and location maps information about food, water, clothes, materials, rescue, shelter, transport, medical services etc. #KeralaFloodRelief",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": null,
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": null,
+            "resources": [
+              "FOOD",
+              "WATER",
+              "MEDICINE",
+              "SHELTER"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": true,
+            "shelter": true,
+            "rescue": true,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Informational coordination post, not an individual SOS"
+      },
+      {
+        "case_id": 31,
+        "message": "Hey. Anyone know how I can get rescue operations to specific areas near Cochin? Please help. 14-20ppl stuck on the first floor of their house as the water is rising above their gate now. #kerala #KeralaFloodRelief #KeralaFloods #KeralaRains #KeralaFlooding",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "near Cochin",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "14-20",
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "RESCUE",
+            "resources": []
+          },
+          "needs": {
+            "food": false,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": true,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "14-20ppl + trapped + rescue"
+      },
+      {
+        "case_id": 34,
+        "message": "Kerala flood is at its peak. At Chenganoor nearly 10,000 people is separated from world for three days. No food no water . Need Army help immediately. Modiji need to sanction this asap please. Death toll raising now. If no help nearly 10,000 will lose their life.@narendramodi",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "Chengannur",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "10000",
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "RESCUE",
+            "resources": []
+          },
+          "needs": {
+            "food": false,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": true,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "10,000 people; predicted deaths must NOT become deceased count"
+      },
+      {
+        "case_id": 46,
+        "message": "Guys this not a rescue call, need help with supplies(food &amp; water) for 91 year old grandmother(she is alone) in aluva. Whom should someone get in touch with? #KeralaFlood cc: @nikhilnarayanan",
+        "expected": {
+          "source_type": "INDIVIDUAL_SOS",
+          "location": {
+            "text": "Aluva",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": "1",
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD",
+              "WATER"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": false,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "91-year-old grandmother + explicitly says not rescue"
+      },
+      {
+        "case_id": 61,
+        "message": "#KeralaFlood @sachin_rt @SrBachchan @imVkohli one of my friends family is struck in  relief reached still. No food from yesterday. helpline Thottathil Bethel Chakkittapadi junction Near malakkara hospital Aranmula Pathanamthitta dist. Phone 9048551857",
+        "expected": {
+          "source_type": "INDIVIDUAL_SOS",
+          "location": {
+            "text": "Thottathil Bethel Chakkittapadi junction, near Malakkara hospital, Aranmula, Pathanamthitta",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": [
+            "9048551857"
+          ]
+        },
+        "edge_cases": "Long location phrase + food + phone"
+      },
+      {
+        "case_id": 69,
+        "message": "Seethathodu panchayat of Pathanamthita District badly affected with landslide. 7 families lost everything and staying together to support each other in this difficult time. The emerging needs are medical, food, shelter &amp; livelihood. #KeralaFloods #Caritas2Kerala @iamCARITAS",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "Seethathodu, Pathanamthitta",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "7 families",
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "MEDICAL",
+            "resources": [
+              "MEDICINE",
+              "FOOD",
+              "SHELTER"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": true,
+            "shelter": true,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Families are not a numeric people count; multiple needs"
+      },
+      {
+        "case_id": 73,
+        "message": "17.08.18 4.15 pm Required in #UCCollege #Aluva Gas cylinder with burners and connectors Meals for 4000/- persons Diaper - baby and adult First aid medicine Bedsheet pillows Clothes Water #DoForKerala #KeralaFloods",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "UC College, Aluva",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "4000",
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD",
+              "MEDICINE",
+              "WATER",
+              "SHELTER"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": true,
+            "shelter": true,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "4000 persons + many resource types"
+      },
+      {
+        "case_id": 76,
+        "message": "#UrgentHelp There is a severe shortage for food and water in 3 relief camps located in #Koonammavu in Ernakulam. Around 5,000 people are here! They also need bedsheets and clothes. Contact Shreyas: 8921418834 Please share! #KeralaFloodRelief #KeralaFloods #SaveKerala",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "Koonammavu, Ernakulam",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "5000",
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD",
+              "SHELTER"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": false,
+            "shelter": true,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": [
+            "8921418834"
+          ]
+        },
+        "edge_cases": "Around 5,000 + multiple needs"
+      },
+      {
+        "case_id": 80,
+        "message": "SOS PLEASE everyone who sees this. RT. My country is in need of help. The dead have reached over 10. Over 50 are injured. Among them are children, babies, animals People have lost their homes in the fire. PLEASE.",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": null,
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": "mentioned",
+            "elderly": null,
+            "pregnant": null,
+            "injured": "50",
+            "missing": null,
+            "deceased": "10",
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": null,
+            "resources": []
+          },
+          "needs": {
+            "food": false,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Over 10 dead and over 50 injured; children mentioned; not a specific person count"
+      },
+      {
+        "case_id": 97,
+        "message": "Food, water, medical, and other supplies are needed in the Caribbean! People with boats can bring supplies to those in need! #Irma🌀🛥🛥🛥",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": "Caribbean",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD",
+              "WATER",
+              "MEDICINE"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": true,
+            "shelter": false,
+            "rescue": true,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "General regional supply request, not individual SOS"
+      },
+      {
+        "case_id": 100,
+        "message": "Anyone in need of drinking water, food and medical supplies in and around Ernakulam, please reach out to 9746710727 and 9745043901. #KeralaFloodRelief #KeralaFloods #KeralaFloodsHelpNeeded",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": "Ernakulam",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "MEDICAL",
+            "resources": [
+              "FOOD",
+              "WATER",
+              "MEDICINE"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": true,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": [
+            "9746710727",
+            "9745043901"
+          ]
+        },
+        "edge_cases": "General help contact, not direct individual SOS"
+      },
+      {
+        "case_id": 109,
+        "message": "SOS: To all my friends in London - Please help us gather food and essentials for the victims of the deadly fire in Greece. In cooperation with the Greeks working at Imperial Hospital we created 2 collection points",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": "London",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Donation/collection coordination; no affected-person count"
+      },
+      {
+        "case_id": 115,
+        "message": "@thevirdas Apart from food, Kerala also needs urgently Cleaning supplies, Womens sanitary products and water. Also please dont donate old clothes. Have seen old, torn even unwashed clothes in donation packets. ὤF #KeralaFloods",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": "Kerala",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD",
+              "WATER",
+              "SHELTER"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": false,
+            "shelter": true,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "General relief guidance, not a direct SOS"
+      },
+      {
+        "case_id": 117,
+        "message": "Urgent medical requirement@ Manjaly flood relief camp near North Paravoor, Ernakulam district. Most of the people in the camp are patients. Pls contribute. Contact: Aneesh -7012484667 #AHelpingHandForKerala #KeralaFloodRelief #Keralafloods #SOSKerala #IndiaForKerala",
+        "expected": {
+          "source_type": "MEDICAL_SOS",
+          "location": {
+            "text": "Manjaly flood relief camp, near North Paravoor, Ernakulam",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "MEDICAL",
+            "resources": [
+              "MEDICINE"
+            ]
+          },
+          "needs": {
+            "food": false,
+            "water": false,
+            "medicine": true,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": [
+            "7012484667"
+          ]
+        },
+        "edge_cases": "Medical requirement at relief camp"
+      },
+      {
+        "case_id": 139,
+        "message": "@msnbc @cnn @cbs There are people in Salinas Ecuador that havevnot been reached. They are running out of food and water. Some medical issues",
+        "expected": {
+          "source_type": "INDIVIDUAL_SOS",
+          "location": {
+            "text": "Salinas, Ecuador",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD",
+              "WATER",
+              "MEDICINE"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": true,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "People not reached, running out of food/water, medical issues"
+      },
+      {
+        "case_id": 143,
+        "message": "#keralafloods Need 50k food packets in kochi Rajiv gandhi indoor stadium. Pregnant ladies, old aged, kids are starving. @Zomato @UberEats @swiggy_in Can you guys help.",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": "Rajiv Gandhi Indoor Stadium, Kochi",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": "mentioned",
+            "elderly": "mentioned",
+            "pregnant": "mentioned",
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "50k food packets is a resource quantity, NOT 50,000 people"
+      },
+      {
+        "case_id": 146,
+        "message": "@AshDWallis Can you help? Medical / elderly man in need of nebulizer at 14422 Meyersville Dr. 77049 . (# 832-926-3474, Amburch) #Harvey",
+        "expected": {
+          "source_type": "MEDICAL_SOS",
+          "location": {
+            "text": "14422 Meyersville Dr, 77049",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": "1",
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "MEDICAL",
+            "resources": [
+              "MEDICINE"
+            ]
+          },
+          "needs": {
+            "food": false,
+            "water": false,
+            "medicine": true,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": [
+            "8329263474"
+          ]
+        },
+        "edge_cases": "Elderly man + nebulizer + phone"
+      },
+      {
+        "case_id": 153,
+        "message": "*Urgent help needed !!!* Aunt and family stranded in first floor of house along with 50 other people. One kid passed away one hour ago. Situation is getting worse as water level rises to first floor. #KeralaFloods #KeralaFloodRelief #KeralaSOS @Democratrodrigu @cinemasworld",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": null,
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "51",
+            "children": "1",
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": "1",
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "RESCUE",
+            "resources": []
+          },
+          "needs": {
+            "food": false,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": true,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Family + 50 other people; one kid died"
+      },
+      {
+        "case_id": 156,
+        "message": "This family is stranded without power supply &amp; food. Verified at 6.40 am today. #KeralaFlood Name: Vipin V Vijayan No.: 09048192989 Place: Thiruvanvandoor, Chengannur Google map coordinates: 9°2045.1N 76°3410.5E 9.345848, 76.569590 Map location:",
+        "expected": {
+          "source_type": "INDIVIDUAL_SOS",
+          "location": {
+            "text": "Thiruvanvandoor, Chengannur",
+            "latitude": 9.345848,
+            "longitude": 76.56959
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": [
+            "9048192989"
+          ]
+        },
+        "edge_cases": "Exact decimal GPS + DMS-like coordinates + place"
+      },
+      {
+        "case_id": 158,
+        "message": "A family of five, including a 60 year old Aunty, is stranded at Kottayilkovilakam Rd, Ernamulam. They have been stranded on the terrace since last and no rescue teams have been able to reach as yet. #keralafloods Dropped pin near Arankavu, Kerala",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "Kottayilkovilakam Rd, Ernamulam",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "5",
+            "children": null,
+            "elderly": "1",
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "RESCUE",
+            "resources": []
+          },
+          "needs": {
+            "food": false,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": true,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Family of five + 60-year-old aunt + rescue"
+      },
+      {
+        "case_id": 160,
+        "message": "At least 500,000 people are waiting for food and water in Mozambique after Cyclone Idai hit Southern Africa and almost wiped out the city of Beira.",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "Mozambique, Beira",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "500000",
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD",
+              "WATER"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": false,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "500,000 comma number"
+      },
+      {
+        "case_id": 214,
+        "message": "Majority of the people (over 2, 300) affected by #IdaiCyclone in T/A Chiwalo, Phalombe, are women &amp; children in need of food. This is according to Lawrence Msonthi, Area Development Committee (ADC) chairman. #GENETResponse #EmergencyRelief #MalawiFloods2019 #CycloneIdai",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "T/A Chiwalo, Phalombe",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "2300",
+            "children": "mentioned",
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Over 2,300; source is reported information"
+      },
+      {
+        "case_id": 217,
+        "message": "#Malawi- #CycloneIdai has affected 15 districts and left behind some 730,000 people in need of food assistance. @WFP together with @UNMalawi agencies are working tirelessly around the clock to provide relief to victims of the floods.Ὂ6",
+        "expected": {
+          "source_type": "GROUP_SOS",
+          "location": {
+            "text": "Malawi",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "730000",
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "730,000 comma number + food assistance"
+      },
+      {
+        "case_id": 219,
+        "message": "How can I sleep, knowing Hurricane Dorian is barreling towards us? I have made a ton of ice &amp; have a hundred batteries &amp; cell phone chargers, need more gas &amp; more food for family &amp; more ready cash; can’t evacuate.",
+        "expected": {
+          "source_type": "INDIVIDUAL_SOS",
+          "location": {
+            "text": null,
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "First-person household need; cannot evacuate; gas/food/cash"
+      },
+      {
+        "case_id": 220,
+        "message": "We need help buying emergency food boxes filled w/ food &amp; items #Harvey victims can use. Make a monetary donation:",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": "Harvey",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Donation request, not direct SOS"
+      },
+      {
+        "case_id": 224,
+        "message": "Thirty of Amrita Vidyalayam schools in the state have become #KeralaFloodRelief camps. They are providing shelter, food, clothing, toiletries and medical care. #KeralaFloods #Amma #Amritanandamayi",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": null,
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD",
+              "SHELTER",
+              "MEDICINE"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": false,
+            "medicine": true,
+            "shelter": true,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Schools providing relief services; informational"
+      },
+      {
+        "case_id": 225,
+        "message": "RT @unicefaustralia: #Pedernales is devastated, says the Mayor. We need medicine, water and food to help people. #EcuadorEarthquake htt",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": "Pedernales",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "MEDICAL",
+            "resources": [
+              "MEDICINE",
+              "WATER",
+              "FOOD"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": true,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Reported local need"
+      },
+      {
+        "case_id": 226,
+        "message": "RT @manuelapicq: Ecuadors coastal towns in need of water, food, medicine and electricity.",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": "Ecuador coastal towns",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD",
+              "WATER",
+              "MEDICINE"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": true,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "General regional need"
+      },
+      {
+        "case_id": 230,
+        "message": "Tropical storm Harvey: 30,000 people will need shelter after flooding in Texas - live  #Harvey #Houston #TexasFlood",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": "Texas",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": "30000",
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "SHELTER",
+            "resources": [
+              "SHELTER"
+            ]
+          },
+          "needs": {
+            "food": false,
+            "water": false,
+            "medicine": false,
+            "shelter": true,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Forecast/future need: 30,000 people will need shelter; not current SOS"
+      },
+      {
+        "case_id": 233,
+        "message": "More than financial donations, #KeralaFloods #KodaguFloods need donations in terms of blankets, clothes, food items, drinking water, medicines, etc. Reach out to org working on ground to donate.",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": "Kerala, Kodagu",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "FOOD",
+            "resources": [
+              "FOOD",
+              "WATER",
+              "MEDICINE",
+              "SHELTER"
+            ]
+          },
+          "needs": {
+            "food": true,
+            "water": true,
+            "medicine": true,
+            "shelter": true,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Donation guidance, not direct SOS"
+      },
+      {
+        "case_id": 269,
+        "message": "Plz consider donating to help victims of the catastrophic Greek fires (at least 74 dead so far, 200+ injured, including dozens of children) Even small donation makes a difference  #Greece #PrayForGreece #GreeceFires #Πυρκαγιά #πυρκαγιές @HellenicLeaders",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": "Greece",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": "mentioned",
+            "elderly": null,
+            "pregnant": null,
+            "injured": "200",
+            "missing": null,
+            "deceased": "74",
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": null,
+            "resources": []
+          },
+          "needs": {
+            "food": false,
+            "water": false,
+            "medicine": false,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Reported casualty figures + donation request; numbers are dead/injured, not current SOS request"
+      },
+      {
+        "case_id": 283,
+        "message": "#Kerala connect me to who need this, a kind soul wants to help. Do RT I am a juvenile diabetic &amp; I realised need for insulin vials &amp; needles. If, you know anyone who is involved in sending medical kits, I would be happy to sponsor for some of these life-saving medicines",
+        "expected": {
+          "source_type": "RELIEF_REQUEST",
+          "location": {
+            "text": "Kerala",
+            "latitude": null,
+            "longitude": null
+          },
+          "people": {
+            "total": null,
+            "children": null,
+            "elderly": null,
+            "pregnant": null,
+            "injured": null,
+            "missing": null,
+            "deceased": null,
+            "mobility_impaired": null
+          },
+          "situation": null,
+          "request": {
+            "type": "MEDICAL",
+            "resources": [
+              "MEDICINE"
+            ]
+          },
+          "needs": {
+            "food": false,
+            "water": false,
+            "medicine": true,
+            "shelter": false,
+            "rescue": false,
+            "medical_transfer": false
+          },
+          "contact_info": []
+        },
+        "edge_cases": "Volunteer/sponsor offering medicine, not requesting aid"
+      }
+    ]
+  }

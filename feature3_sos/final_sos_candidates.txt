@@ -1,0 +1,900 @@
+
+--- 1 | SCORE: 15 | POSITIVE: ['people', 'stranded', 'urgent', 'request', 'food', 'water', 'location', 'contact'] | NEGATIVE: [] ---
+Catholic Church Municipality Road, Chengannur, Kerala 689121, India  14 people stuck without food or water Urgently need help 100% verified . Please contact immediately +919036688492. #KeralaFloodRelief #Teamകൈത്താങ്ങ് 20.08.2018 8:45 am
+
+--- 2 | SCORE: 13 | POSITIVE: ['people', 'stranded', 'request', 'food', 'water', 'rescue', 'location', 'contact'] | NEGATIVE: [] ---
+#KeralaSOS@CMOKerala almost 20-30 people stuck with no contact for last 3 days. Thottapuzha cherry, maramon near Marthoma church Sunday school. Need Food n Water n rescue#KeralaSOS #KeralaFloods #SOSKerala #maramon #Pathanamthitta #asianetnews
+
+--- 3 | SCORE: 13 | POSITIVE: ['urgent', 'request', 'medicine', 'vulnerable', 'location', 'contact', 'medical_emergency'] | NEGATIVE: [] ---
+4yr old child urgently needs oxygen. To be shifted from Edathwa to medical mission hospital thiruvalla. Contact jisha 9946265576 #keralaFloods #alappuzha #Helpline #MedicalEmergency
+
+--- 4 | SCORE: 13 | POSITIVE: ['stranded', 'urgent', 'request', 'vulnerable', 'location', 'medical_emergency'] | NEGATIVE: [] ---
+Need very urgent help 4000 peoples trapped in north paravoor , chirayam, paanayikkulam Most of them are children.. they are in critical situation! Including  church and st.joseph church. 8089788023 #KeralaFloods #KeralaFloodRelief #DoForKerala
+
+--- 5 | SCORE: 12 | POSITIVE: ['people', 'stranded', 'urgent', 'request', 'food', 'water', 'location'] | NEGATIVE: [] ---
+260 People stuck in Nedubeshary Dew Homes Apartment ,Kochi Airport Road. 29 kids and infants. Need food and water immediately #keralafloods @PMOIndia @CMOKerala @manoramanews @governance_ind @asianetnewstv @cnnbrk @Mohanlal Please read the attached screenshot. @TimesNow
+
+--- 6 | SCORE: 12 | POSITIVE: ['people', 'stranded', 'urgent', 'request', 'food', 'water', 'location'] | NEGATIVE: [] ---
+17/08/2018 *Genuine Post* My friend- Sree Prasad- 9895836612 from Kalady(Mekkalady-Sree Parvathy House) Ernakulam- Got stuck near Kottamam Bridge. Almost 20 people are there including 5 kids. They need food-water urgently please help #keralaflood #help #flood #urgent #emergency
+
+--- 7 | SCORE: 12 | POSITIVE: ['people', 'stranded', 'urgent', 'request', 'food', 'water', 'location'] | NEGATIVE: [] ---
+My friend Deepa Joseph along with 400 to 500 people are stranded in a camp at flat under construction at kadukutty, annanadu, chalakudy, please help them asap, they dont have food or water or means of communication #KeralaFloods @indiannavy @CMOKerala @asianetnewstv plz rescueὤF
+
+--- 8 | SCORE: 11 | POSITIVE: ['stranded', 'urgent', 'request', 'food', 'medicine', 'location'] | NEGATIVE: [] ---
+They have been stranded since the past 2 days! No food nor medicines . THEY ARE all PHYSICALLY WEAK. #URGENT INTERVENTION REQUESTED. Kindly request @CMOKerala to PROVIDE THEM WITH FOOD SUPPLIES AT THE EARLIEST. Coordinates:- 9°2008.5N 76°3749.9E #KeralaFloods #KeralaSOS
+
+--- 9 | SCORE: 11 | POSITIVE: ['people', 'stranded', 'urgent', 'request', 'food', 'contact'] | NEGATIVE: [] ---
+SEEKING IMMEDIATE EMERGENCY/EVACUATION IN PANDANADU AREA: NO FOOD AND CONTACT FOR LAST 72 HOURS Next to Pandanadu , On the terrace of health centre, blue building, 20-30 people stranded, seeking immediate evacuation (1/2) #KeralaFloods #URGENT
+
+--- 10 | SCORE: 10 | POSITIVE: ['people', 'stranded', 'urgent', 'water', 'medicine', 'vulnerable', 'location', 'contact'] | NEGATIVE: [] ---
+#keralaflood #urgent #thiruvalla 4 people including pregnant woman Surrounded by water No drinking water and toilet facility for last 3 to 4 days Lack of medicine too Contact no : 9961868847 GPS COORDINATES : 9.356785,76.576964 Verified at 11.15 pm 18/08/2018
+
+--- 11 | SCORE: 10 | POSITIVE: ['people', 'stranded', 'request', 'food', 'water', 'rescue', 'contact'] | NEGATIVE: [] ---
+Dear @nsitharaman: 11 people including my family are stranded on the terrace of 2/334, Kavunkal House, Ward 2, Vilakkumadam Kottaram, Edayaranmula, Pathanamthitta for 3 days. No water, food, contact. Alerted all, but no rescue operations in the area. Please help! #KeralaFloods
+
+--- 12 | SCORE: 10 | POSITIVE: ['people', 'urgent', 'request', 'food', 'location', 'contact'] | NEGATIVE: [] ---
+Location : Varapuzha, district #Ernakulam. Varapuzha camp Contact Denzil on 9995637774 urgently please. #Food for 1000 members needed on HIGH Priority. Items required: food, candles, clothes for men, ladies and kids, undergarments. #KeralaFloods #KeralaFloodRelief #SOSKerala
+
+--- 13 | SCORE: 10 | POSITIVE: ['stranded', 'urgent', 'request', 'water', 'location'] | NEGATIVE: [] ---
+Urgent help required many families stranded at Location : East Kadungallor, Aluva, Chengamata road joining rajasree school road Water entering home yesterday itself. Phones out of charge  #KeralaFloods #Aluva #KeralaSOS #KeralaRescue #KeralaRelief
+
+--- 14 | SCORE: 10 | POSITIVE: ['people', 'stranded', 'urgent', 'request', 'location'] | NEGATIVE: [] ---
+Dear friends,my friends family and few others ( 50 people ) are stuck in a high school in Chendamangalam of North Paravur,Ernakulam district,Kerala. They need help urgently! Address -DDSHS Karimpadam,Chendamangalam PO,PIN 683512 Location - 10.1797°N 76.2097°E . #KeralaFloods
+
+--- 15 | SCORE: 10 | POSITIVE: ['people', 'stranded', 'urgent', 'request', 'location'] | NEGATIVE: [] ---
+Thrissur Annamanada, StJohn UP school,50 people are stuck ,emergency ,please help them #PrayForKerala #StandforKerala #KeralaSOS #KeralaFloodRelief #KeralaFloods #KeralaRains Guys please the national media doing nothing,we are the medias,through us they will get help ,share ..
+
+--- 16 | SCORE: 9 | POSITIVE: ['stranded', 'urgent', 'food', 'rescue', 'vulnerable', 'location', 'contact'] | NEGATIVE: [] ---
+URGENT appeal! Pregnant woman and a 5 year old child stranded at Edanad, Chengannur. low on food &amp; supplies. No rescue teams in Edanad. Contact - Raj Nair-95441 5306, Near Edanad Temple #KeralaSOS #KeralaFloods ⁦⁦@thenewsminute⁩ #Edanad
+
+--- 17 | SCORE: 9 | POSITIVE: ['people', 'urgent', 'request', 'food', 'water', 'vulnerable', 'location'] | NEGATIVE: [] ---
+@Shudraism They are safe and home, but, Location : Infant Jesus Church Kadukutty. Around 50 families are there who are surviving only on polluted water. Need urgent water and food supplies, if you can help please do help them with supplies #KeralaFloods #KeralaFloodRelief contact95262 29447
+
+--- 18 | SCORE: 9 | POSITIVE: ['urgent', 'request', 'medicine', 'location', 'medical_emergency'] | NEGATIVE: [] ---
+Take this seriouslyvery urgent 4 month old kid need Oxygen in Lourdes matha hospital, allapuzha..have to take them to tiruvalla medical mission hospital 9961452906- leo 9946265576- jisha #KeralaFloods #KeralaFloodRelief
+
+--- 19 | SCORE: 9 | POSITIVE: ['urgent', 'request', 'food', 'water', 'medical_emergency'] | NEGATIVE: [] ---
+#HurricaneMaria: Delivery of critical aid is intensifying in #Dominica- water, food &amp; shelter are most urgent needs
+
+--- 20 | SCORE: 9 | POSITIVE: ['stranded', 'urgent', 'request', 'medicine'] | NEGATIVE: [] ---
+#Urgent: Corporate sponsor needed to buy stranded viral medication meant for #KeralaFloodRelief. Please help if you know someone who can take this on.
+
+--- 21 | SCORE: 9 | POSITIVE: ['urgent', 'request', 'medicine', 'location', 'contact'] | NEGATIVE: [] ---
+Need these medicines urgently. Place: CUSAT engg college medical camp , A BLOCK Contact number: 9895055665 Contact person: Anish Verified info. Posting time: 2:04pm 17th Aug Please RT. #KeralaFloods #KeralaFloodRelief
+
+--- 22 | SCORE: 9 | POSITIVE: ['stranded', 'urgent', 'request', 'location'] | NEGATIVE: [] ---
+need immediate attention to 50 stranded people and one kid passed away an hr back kindly assist connecting #KeralaFloods #KeralaSOS #Ernakulam Location:- Vadakkekara, North Paroor Opposite to Muziris Auditorium #verified 14.30 pm 18/8 no :- 8129499346 10°0951.8N 76°1224.4E
+
+--- 23 | SCORE: 9 | POSITIVE: ['stranded', 'urgent', 'request', 'food'] | NEGATIVE: [] ---
+Co ordination happening with Biju Prabhakar IAS They are in urgently need of food items. Food needs to be distributed to those stranded. Helicopters are ready for air dropping Please please share this. Urgent need for packed food #KeralaFloods
+
+--- 24 | SCORE: 9 | POSITIVE: ['stranded', 'request', 'location', 'contact'] | NEGATIVE: [] ---
+Videos like these are circulating on Bahamian social media. People in Abaco need help. I lost contact with a friend. The church my cousin sheltered in had the roof ripped off and they’re stuck because of flooding. #HurricaneDorian
+
+--- 25 | SCORE: 8 | POSITIVE: ['people', 'stranded', 'food', 'vulnerable', 'contact', 'medical_emergency'] | NEGATIVE: [] ---
+14 people including 8 month pregnant lady, old patient lady ,4 years old kid . stranded without food. please provide food with recue team contact: 9495292782  #KeralaFloods #KeralaSOS #Chengannur
+
+--- 26 | SCORE: 8 | POSITIVE: ['food', 'water', 'medicine', 'rescue', 'location', 'contact'] | NEGATIVE: [] ---
+We are seeing incredible traction in  resources. Please spread the word and let help reach everyone. We have contact and location maps information about food, water, clothes, materials, rescue, shelter, transport, medical services etc. #KeralaFloodRelief
+
+--- 27 | SCORE: 8 | POSITIVE: ['stranded', 'request', 'food', 'water', 'rescue'] | NEGATIVE: [] ---
+If anyone can hear us: HELP. Puerto Rico needs massive help to restore power, rescue stranded &amp; provide water &amp; food. #PuertoRicoRelief
+
+--- 28 | SCORE: 8 | POSITIVE: ['people', 'urgent', 'request', 'food', 'water', 'location'] | NEGATIVE: [] ---
+@CMOKerala Hello sir - NEED URGENT ATTENTION- Near malakara temple aranmula pathanamthitta around 300 people starving including kids without food or water .. PLS HELP ON URGENT BASIS ..#KeralaFloods #KeralaFloodRelief
+
+--- 29 | SCORE: 8 | POSITIVE: ['stranded', 'request', 'food', 'vulnerable', 'location'] | NEGATIVE: [] ---
+Hi All, my family is stranded on their terrace with 2 small children and 2 elderly people with no current and no food. Could you please, please help. Location in the map image below: click on the image for details ὤFἿDὤFἿDὤFἿD #KeralaFloods #KeralaSOS #KeralaFloodRelief #Paravur
+
+--- 30 | SCORE: 8 | POSITIVE: ['stranded', 'request', 'water', 'vulnerable', 'location'] | NEGATIVE: [] ---
+#KERALAFLOODS #Aluva old people and families stuck in FMCT school Karumaloor, in Aluva Paravoor road.The water levels are getting higher there. Please help #Rescuekerala #CMOkerala
+
+--- 31 | SCORE: 8 | POSITIVE: ['stranded', 'request', 'water', 'rescue', 'location'] | NEGATIVE: [] ---
+Hey. Anyone know how I can get rescue operations to specific areas near Cochin? Please help. 14-20ppl stuck on the first floor of their house as the water is rising above their gate now. #kerala #KeralaFloodRelief #KeralaFloods #KeralaRains #KeralaFlooding
+
+--- 32 | SCORE: 7 | POSITIVE: ['people', 'stranded', 'request', 'water'] | NEGATIVE: [] ---
+My friends family stuck on terrace since 2 days grandma is 98 years old and there are 2 kids 2 years and 8 years old.. along with 9 adults. They need help desperately as the water levels are raising. #KeralaFloods #helpneeded #savekerla
+
+--- 33 | SCORE: 7 | POSITIVE: ['stranded', 'request', 'food', 'water'] | NEGATIVE: [] ---
+#keralafloods #chengannur My parents are still stranded in Madavana, Pandanad, Chengannur. No food or water has reached theme yet. Please help.
+
+--- 34 | SCORE: 7 | POSITIVE: ['people', 'urgent', 'request', 'food', 'water'] | NEGATIVE: [] ---
+Kerala flood is at its peak. At Chenganoor nearly 10,000 people is separated from world for three days. No food no water . Need Army help immediately. Modiji need to sanction this asap please. Death toll raising now. If no help nearly 10,000 will lose their life.@narendramodi
+
+--- 35 | SCORE: 7 | POSITIVE: ['people', 'stranded', 'request', 'location'] | NEGATIVE: [] ---
+A friend of mine stranded in the location has sent this message. Please help: We hv already given our location. pandanad, chengannur kerala boats are on the way but there are abt 100 people in this area n just 1 or 2 boats #KeralaFloods @ShashiTharoor #KeralaSOS
+
+--- 36 | SCORE: 7 | POSITIVE: ['stranded', 'request', 'water', 'location'] | NEGATIVE: [] ---
+#Kerala needs your help right now. A lot of people are stuck on rooftops of various houses, in Kalambattupuram. Unable to reach helpline numbers,supplies running out, and water rising. Landmarks- St.Sebastian shrine, Sacred Heart Church #keralafloods #StandWithKerala
+
+--- 37 | SCORE: 7 | POSITIVE: ['people', 'urgent', 'food', 'location', 'contact'] | NEGATIVE: [] ---
+#Urgent Mar Gregorios camp in #NorthParavur require food for 500 people. Contact Gokul Murali: +91 85478 84402. Please share this!!! Via @AjuVarghesee #KeralaFloodRelief #Kerala #KeralaFloods #KeralaSOS
+
+--- 38 | SCORE: 7 | POSITIVE: ['request', 'food', 'medicine', 'contact', 'medical_emergency'] | NEGATIVE: [] ---
+#keralafloods #keralafloods2018 #KeralaFloodRelief #KeralaSOS Critical shortage of basic Medicines and sanitary needs, pls contact Arun 9947233644 based at Kochi. With waters receeding and people exhausted w/t food for days, there is spread of Virus, needs to be contained
+
+--- 39 | SCORE: 7 | POSITIVE: ['urgent', 'request', 'water', 'rescue', 'medical_emergency'] | NEGATIVE: ['news'] ---
+Central/State Govt. We in #Chengannur need immediate rescue. Very critical. Very critical. If no help, you will be getting very bad news tomorrow morning. 10000 starnded in flood water. Only airlift possible. Only airlift. #Chengannur #KeralaFlood
+
+--- 40 | SCORE: 7 | POSITIVE: ['stranded', 'request', 'vulnerable', 'location'] | NEGATIVE: [] ---
+Latest Request: Family trapped in Arattupuzha, Near Devi temple. Children has caught fever already and in pathetic condition. Erattakalil house Phones already switched off from 1 am on 16-08-2018 #KeralaFloods @Dinkan_ @_leppi @UkkenTintu
+
+--- 41 | SCORE: 7 | POSITIVE: ['people', 'urgent', 'request', 'food', 'contact'] | NEGATIVE: [] ---
+#Ernakulam Urgently required food for 500 members in fisheries college panangad,Ernakulam..Contact Mahi - +91 98953 10612 #KeralaFloods #StandwithKerala #KeralaFloodRescue
+
+--- 42 | SCORE: 7 | POSITIVE: ['stranded', 'request', 'food', 'location'] | NEGATIVE: [] ---
+Please Help my Family.. They are stil stuck at #pandanad no food #Chengannur Kindly request to send some food #KeralaFloods #keralarains #KeralaSOS Location: Nettor stores, Pandanad North (as per google map) Mob: 7021673371 Name: Sooraj Sreekumar
+
+--- 43 | SCORE: 7 | POSITIVE: ['urgent', 'request', 'food', 'water', 'contact'] | NEGATIVE: [] ---
+Mozambique Red Cross Director of Programmes, Tito Queiros, shared an update on the humanitarian situation in parts of #Mozambique affected by #CycloneIdai. In the area around Beira affected communities urgently need water, food and to restore contact with their families.
+
+--- 44 | SCORE: 6 | POSITIVE: ['people', 'stranded', 'food', 'water', 'vulnerable', 'location'] | NEGATIVE: [] ---
+there are nearly 50 people stranded in thrissur district, chalakudy, kandukutty. the house is in front of infant jesus church. they have been stranded for the past 3 days with no food and water. kindly help, deepa : 9526229447 #KeralaFloods #SOSkerala #KeralaFloodRelief
+
+--- 45 | SCORE: 6 | POSITIVE: ['people', 'stranded', 'urgent', 'food', 'water', 'location'] | NEGATIVE: [] ---
+Urgent Help! Almost 150 people are stuck in Malayattur School- Mathirumma Jn, Ernakulam with no food &amp; water! RT please!!! - @asianetnewstv @manoramanews #Emergency #KeralaFloods #Urgent #HELP @dhanyarajendran
+
+--- 46 | SCORE: 6 | POSITIVE: ['request', 'food', 'water', 'rescue', 'vulnerable', 'contact'] | NEGATIVE: [] ---
+Guys this not a rescue call, need help with supplies(food &amp; water) for 91 year old grandmother(she is alone) in aluva. Whom should someone get in touch with? #KeralaFlood cc: @nikhilnarayanan
+
+--- 47 | SCORE: 6 | POSITIVE: ['people', 'urgent', 'food', 'water', 'vulnerable', 'contact'] | NEGATIVE: [] ---
+Urgent one plzz Share 2, 3 families got stucked in a house with small babies. No food and water. Tottangara house Manikamangalam p.o Injakkelkavala Kalady #Eranakulam Phone 099460 50301 #KeralaFloods @CMOKerala
+
+--- 48 | SCORE: 6 | POSITIVE: ['urgent', 'request', 'food', 'water'] | NEGATIVE: [] ---
+@ashleyyyyaunna 🚨🚧URGENT #PortArthur #Harvey Woodrow Wilson Shelter in dire need of food &amp; water Please RT Thanks
+
+--- 49 | SCORE: 6 | POSITIVE: ['urgent', 'request', 'food', 'water'] | NEGATIVE: [] ---
+A grim situation on ground as relief camps deal with the continuous influx of displaced people. Shelter, food and clean water an urgent need!  #KeralaFloodRelief
+
+--- 50 | SCORE: 6 | POSITIVE: ['stranded', 'food', 'vulnerable', 'medical_emergency'] | NEGATIVE: [] ---
+5+ people including baby- trapped in Pandanad.(exact nos. not known) no food for 2 days and the child is very sick 6235553980 - Abel 9656264032 - christeena Relative -9656264032 - Mini Mithramatom - Puliyoor Rd, Pandanad, Kerala 689510 #KeralaSOS
+
+--- 51 | SCORE: 6 | POSITIVE: ['stranded', 'request', 'location'] | NEGATIVE: [] ---
+Ive got the location coordinates of my parents &amp; grandma. Theyre in: 9.377694°N, 76.546417°E 3 ppl stranded since last 3 days. House doesnt have a floor above. Please help. Its their last known location, on 16th August #KeralaFloods #KeralaSOS
+
+--- 52 | SCORE: 6 | POSITIVE: ['request', 'food', 'water', 'medical_emergency'] | NEGATIVE: [] ---
+Absolutely despicable and sick! Our brothers and sisters in Puerto Rico NEED help! They have no power, water, food or their homes!
+
+--- 53 | SCORE: 6 | POSITIVE: ['urgent', 'request', 'food', 'water'] | NEGATIVE: [] ---
+this is the worst thing I have ever heard! The Mayor of P.R. needs to distribute the food water to the people of P.R. immediately, no excuse
+
+--- 54 | SCORE: 6 | POSITIVE: ['stranded', 'request', 'rescue'] | NEGATIVE: [] ---
+Requesting our megastars to request your fans for rescue Kerala. Especially people trapped in upstairs at Aluva. Because situations are getting worst &amp; tragic now. Plz help #KeralaFloodRelief #KeralaFlood #KeralaFloods @Mohanlal @mammukka @actorvijay @rajinikanth @ikamalhaasan
+
+--- 55 | SCORE: 6 | POSITIVE: ['stranded', 'food', 'location', 'contact'] | NEGATIVE: [] ---
+ERNAKULAM: Verified info ALERT 600+ people stranded and food supply ran out a few hours ago Location: Ernakulam, North Paravoor, Mareez Auditorium Contact: 9526097880, 9656599433 #KeralaFloods #DoForKerala #KeralaFloods2018 #KeralaFloodRelief #KeralaSOS #Ernakulam #Kochi #Help
+
+--- 56 | SCORE: 6 | POSITIVE: ['urgent', 'request', 'food', 'water'] | NEGATIVE: [] ---
+#Ernakulam URGENT DESPERATE need for food and water for those returning home after #KeralaFloods #Resources #RebuildKerala Pl RT/ tag @Parul_RajeevM @drishtadyumnan @SaginaWalyat @revathikrishnak @ChetaKadaChaaya @silverlightgal @ResourcesKerala @Buuurrp @goonj
+
+--- 57 | SCORE: 6 | POSITIVE: ['stranded', 'request', 'rescue'] | NEGATIVE: [] ---
+Hi! Everyone, I request you please dont forget to rescue poor #animals which stuck in floods of #Kerala ὤFὢ2 . . . . #SaveKerala #KeralaReliefFund
+
+--- 58 | SCORE: 6 | POSITIVE: ['people', 'food', 'location', 'contact'] | NEGATIVE: [] ---
+Updated - 20th 1:55 PM 1000 people require food ,undergarments, Dress Location -Malavana  Church, Puthenvelikkara village, District - Ernakulam Contact details - 9745222866 #KeralaSOS #KeralaFloods
+
+--- 59 | SCORE: 6 | POSITIVE: ['food', 'rescue', 'location', 'contact'] | NEGATIVE: [] ---
+Bedsheets, Food materials(not cooked - rice, cereals etc) are needed in Amrutha vidyalayam Edappally Rescue Camp. Please pass on the message. Call 9400334093 #KeralaFloods #KeralaFloodRelief #KeralaFloodRescue
+
+--- 60 | SCORE: 6 | POSITIVE: ['urgent', 'request', 'medicine', 'location'] | NEGATIVE: [] ---
+#Alappuzha needs urgent help. District Collector specifies needs. Thousands of volunteers, electricians, people for medical surveillance, needed. @ndtv #KeralaFloodRelief #KeralaFloods
+
+--- 61 | SCORE: 6 | POSITIVE: ['food', 'medicine', 'location', 'contact'] | NEGATIVE: [] ---
+#KeralaFlood @sachin_rt @SrBachchan @imVkohli one of my friends family is struck in  relief reached still. No food from yesterday. helpline Thottathil Bethel Chakkittapadi junction Near malakkara hospital Aranmula Pathanamthitta dist. Phone 9048551857
+
+--- 62 | SCORE: 6 | POSITIVE: ['stranded', 'urgent', 'location', 'contact'] | NEGATIVE: [] ---
+Urgent Help Needed from Navy or Disaster Management Recovery teams. 9ppl stuck in 1st floor @ Aluva, Kerala. Ad: Sivam, Old Desom Road, next to Old Match factory, Thottekattukara Phone: Ayyappa Dass +917909122224 #KeralaFloods #KeralaSOS
+
+--- 63 | SCORE: 6 | POSITIVE: ['urgent', 'request', 'water', 'rescue'] | NEGATIVE: [] ---
+We currently need any and all available large vehicles by the New Bern NC PD. Water has receeded enough for vehicle rescues. Lots of help needed!!! #rescue #newbern #nc #northcarolina #HurricaneFlorence
+
+--- 64 | SCORE: 6 | POSITIVE: ['urgent', 'request', 'food', 'water'] | NEGATIVE: [] ---
+Remember @WCKitchen is there with two active kitchens feeding shelters, first responders etc. Any food water need we are able to respond immediately! @natemook #ChefsForCalifornia
+
+--- 65 | SCORE: 6 | POSITIVE: ['stranded', 'request', 'rescue'] | NEGATIVE: [] ---
+The need is still great in the areas affected by #cycloneidai Reports of people still marooned around the Chipinge - Mozambique border. There is need for more rescue helicopters!! @bbc @NewsDayZimbabwe @InfoMinZW
+
+--- 66 | SCORE: 6 | POSITIVE: ['urgent', 'request', 'food', 'water'] | NEGATIVE: [] ---
+#CycloneIdai One month on, access to food, safe water, health, education &amp; housing remains severely restricted for those affected.  people’s rights are at risk &amp; need to be urgently protected, not only now, but also in the months to come.” - @DeproseM
+
+--- 67 | SCORE: 6 | POSITIVE: ['urgent', 'request', 'medicine', 'location'] | NEGATIVE: [] ---
+I have just received the following urgent request for medical supplies for Chipinge Hospital. If anyone can help please write to me at davidcoltart@gmail.com and I will make sure they get there. #CycloneIdai
+
+--- 68 | SCORE: 6 | POSITIVE: ['stranded', 'request', 'contact'] | NEGATIVE: [] ---
+Ive called the number(s) several times and emailed. Please help these ladies get off St. Maarten stuck due to hurricane Irma #savemaarten
+
+--- 69 | SCORE: 5 | POSITIVE: ['people', 'request', 'food', 'medicine', 'location'] | NEGATIVE: [] ---
+Seethathodu panchayat of Pathanamthita District badly affected with landslide. 7 families lost everything and staying together to support each other in this difficult time. The emerging needs are medical, food, shelter &amp; livelihood. #KeralaFloods #Caritas2Kerala @iamCARITAS
+
+--- 70 | SCORE: 5 | POSITIVE: ['request', 'food', 'medicine', 'vulnerable', 'contact'] | NEGATIVE: [] ---
+NEED MEDICAL AND FOOD ATTENTION FOR PREGNANT WOMAN AND CHILDREN. CONTACT BELOW LOCATIONS AND NUMBER @CMOKerala @Forumreelz @FloodKerala @UN_Women @Manekagandhibjp #KeralaFloods
+
+--- 71 | SCORE: 5 | POSITIVE: ['request', 'food', 'water', 'medicine', 'location'] | NEGATIVE: [] ---
+Collection point @ZiFMStereo 7 Kenilworth Road Newlands Harare #CycloneIDAI #chimanimani WE NEED YOUR HELP FOOD, WATER, SHELTER/TENTS, BLANKETS &amp; MEDICAL SUPPLIES. Counseling also required and a lot of emotional support required #helpchimanimani
+
+--- 72 | SCORE: 5 | POSITIVE: ['food', 'water', 'medicine', 'vulnerable', 'contact'] | NEGATIVE: [] ---
+Updated on 19/8/18 9Am We are still getting some call ask baby food, dress ,water , medicines,if anyone has extra items pls call me name.johny:9496660084 #KeralaSOS
+
+--- 73 | SCORE: 5 | POSITIVE: ['request', 'food', 'water', 'medicine', 'vulnerable'] | NEGATIVE: [] ---
+17.08.18 4.15 pm Required in #UCCollege #Aluva Gas cylinder with burners and connectors Meals for 4000/- persons Diaper - baby and adult First aid medicine Bedsheet pillows Clothes Water #DoForKerala #KeralaFloods
+
+--- 74 | SCORE: 5 | POSITIVE: ['people', 'food', 'water', 'vulnerable', 'location'] | NEGATIVE: [] ---
+Ernakulam, #Paravur Vadakkekkara Landmark: behind mohammaden LP School Current situation : no food , no water, health deteriorated How many members: 2 families How many kids : 1 child Numbers : 9447083545, 9400648562 #KeralaFloods #KeralaSOS @nishthvanth @KoYiKkoDaNn
+
+--- 75 | SCORE: 5 | POSITIVE: ['urgent', 'request', 'food', 'water', 'medicine'] | NEGATIVE: ['general'] ---
+A major disaster like a hurricane could limit your access to food, water, medical supplies &amp; services for a few days or longer. Be prepared with an #emergency supplies kit customized to your familys unique #health needs. Learn how:  #PrepYourHealth #Dorian
+
+--- 76 | SCORE: 5 | POSITIVE: ['people', 'request', 'food', 'water', 'contact'] | NEGATIVE: [] ---
+#UrgentHelp There is a severe shortage for food and water in 3 relief camps located in #Koonammavu in Ernakulam. Around 5,000 people are here! They also need bedsheets and clothes. Contact Shreyas: 8921418834 Please share! #KeralaFloodRelief #KeralaFloods #SaveKerala
+
+--- 77 | SCORE: 5 | POSITIVE: ['request', 'food', 'water', 'vulnerable', 'location'] | NEGATIVE: [] ---
+NEED RELIEF MATERIALS Rice, pulses, sanitary napkins,diapers, water bottles, inner wear male and female, baby food reqd Royal Beauty Spot Fitness Centre Sri Ramakrishna Lane Near Hari Sri Vidya Nidhi School Punkunnam Thrissur 680002 #KeralaFloods #KeralaFloodRelief #DoForKerala
+
+--- 78 | SCORE: 5 | POSITIVE: ['stranded', 'request', 'water', 'vulnerable'] | NEGATIVE: ['donation'] ---
+I’m on my knees He saw a woman stranded in a tree giving birth alone, and said that her baby fell into the water” PLEASE HELP AND GIVE FINANCIAL AID .
+
+--- 79 | SCORE: 5 | POSITIVE: ['urgent', 'request', 'medicine'] | NEGATIVE: [] ---
+Hurricane Maria Causes Urgent Medical Supply Need in Puerto Rico
+
+--- 80 | SCORE: 5 | POSITIVE: ['request', 'vulnerable', 'medical_emergency'] | NEGATIVE: [] ---
+SOS PLEASE everyone who sees this. RT. My country is in need of help. The dead have reached over 10. Over 50 are injured. Among them are children, babies, animals People have lost their homes in the fire. PLEASE.
+
+--- 81 | SCORE: 5 | POSITIVE: ['urgent', 'request', 'food'] | NEGATIVE: [] ---
+GoM is also coordinating and mobilising with various social and business organisations for the urgent need of food, which is the topmost priority at this hour for the Kerala flood affected persons. A special meeting was held at Mantralaya this morning for the same. #KeralaFloods
+
+--- 82 | SCORE: 5 | POSITIVE: ['urgent', 'request', 'medicine'] | NEGATIVE: [] ---
+For kind attn in-kind relief contributors: Health officers are stating the urgent need for disinfection products &amp; emergency medication required ASAP to address post flood cleaning needs. IGNORE AT OUR OWN PERIL. #DoForKerala #KeralaFloodRelief Pls prioritise these whn u send!
+
+--- 83 | SCORE: 5 | POSITIVE: ['urgent', 'request', 'food'] | NEGATIVE: [] ---
+Those affected by #CycloneIdai are in dire need of basic relief supplies: food ἵAhealth services Ἶ5 and shelter Ἶ0 @Refugees emergency response teams are in #Beira ἟2἟Fto support and protect people badly affected by this disaster @UNHCRROSA
+
+--- 84 | SCORE: 5 | POSITIVE: ['medicine', 'contact', 'medical_emergency'] | NEGATIVE: [] ---
+We call upon all doctors who were giving free medical help to all injured during the shut down to render the same to victims of #CycloneIdai
+
+--- 85 | SCORE: 5 | POSITIVE: ['urgent', 'request', 'water'] | NEGATIVE: [] ---
+#CycloneIdai kids drinking dirty unsafe water in manica province, urgent need for safe clean water
+
+--- 86 | SCORE: 5 | POSITIVE: ['urgent', 'request', 'water'] | NEGATIVE: [] ---
+@DeanKamen We need slingshots devices for water purification in Manabi-Ecuador, Earthquake humanitarian emergency
+
+--- 87 | SCORE: 5 | POSITIVE: ['people', 'urgent', 'request'] | NEGATIVE: [] ---
+At least 350,000 people need immediate assistance in Haiti, and the full extent of the hurricanes impact remains
+
+--- 88 | SCORE: 5 | POSITIVE: ['people', 'urgent', 'request'] | NEGATIVE: [] ---
+This is devastating. Haitian government says 350,000 people need immediate assistance  via @washingtonpost
+
+--- 89 | SCORE: 5 | POSITIVE: ['people', 'urgent', 'request'] | NEGATIVE: [] ---
+US$4 million @UNCERF grant allocated to provide immediate needs of 120,000 people #SriLanka #floods #landslides -
+
+--- 90 | SCORE: 5 | POSITIVE: ['urgent', 'request', 'water'] | NEGATIVE: [] ---
+URGENT NEED FOR WATER! Gallon preferred, all sizes accepted. Faculty standing by to accept water contributions in carpool. #HurricaneHarvey
+
+--- 91 | SCORE: 5 | POSITIVE: ['stranded', 'request'] | NEGATIVE: [] ---
+The #SPNFamily has compiled a shared document to help #Harvey responders locate those stranded; they need your help!
+
+--- 92 | SCORE: 5 | POSITIVE: ['urgent', 'request', 'food'] | NEGATIVE: [] ---
+Because of #Irma - the #Atlanta Community Food Bank is in urgent need | Come on out to the @ACFB TODAY! | DETAILS:
+
+--- 93 | SCORE: 5 | POSITIVE: ['people', 'urgent', 'request'] | NEGATIVE: [] ---
+Dominica, a nation of 72,000 people, is facing a humanitarian emergency. Please help and spread the word. Prime Minister Roosevelt Skerrit:
+
+--- 94 | SCORE: 4 | POSITIVE: ['water', 'medicine', 'vulnerable', 'location'] | NEGATIVE: [] ---
+@Lin_Manuel Maybe @realDonaldTrump should try a little humility and show that he feels compassion for the suffering of others, especially those who dont have water, shelter, electricity, medical attention and school for their children after a hurricane like Maria. @Igualdad51PR
+
+--- 95 | SCORE: 4 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+Gusts up to 220 MPH. #HurricaneDorian We need to create a rapid response capability for these storms: carriers following behind hurricanes, bringing food, medical assistance, water purification, solar and wind energy, shelter. A US and/or UN humanitarian effort. Adapt &amp; Assist.
+
+--- 96 | SCORE: 4 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+@iCyclone We need to create a rapid response convoy: carriers following hurricanes w/ food, medical assistance, water purification, solar and wind energy, shelter. A US/UN humanitarian effort. We can predict the paths, so wed have a good idea of where assistance would be needed. #Dorian
+
+--- 97 | SCORE: 4 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+Food, water, medical, and other supplies are needed in the Caribbean! People with boats can bring supplies to those in need! #Irma🌀🛥🛥🛥
+
+--- 98 | SCORE: 4 | POSITIVE: ['food', 'water', 'medicine', 'rescue'] | NEGATIVE: [] ---
+Why arent we doing anything to help PR? We should be bringing generators, medicine, food, water, troops to help with rescue &amp; clean up.
+
+--- 99 | SCORE: 4 | POSITIVE: ['people', 'stranded', 'urgent', 'food', 'vulnerable', 'location'] | NEGATIVE: ['retweet'] ---
+RT KaapiRight: 30 പേർ ഈ ലൊക്കേഷനിൽ ഉണ്ട്. Urgent Help needed! Dropped Pin near Niranam, Kerala, India  30 people stranded on top of a home.. including old people..they don’t have food. Please share widely! VERIFIED. #KeralaFloods #KeralaFloodRescue #Ker
+
+--- 100 | SCORE: 4 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+Anyone in need of drinking water, food and medical supplies in and around Ernakulam, please reach out to 9746710727 and 9745043901. #KeralaFloodRelief #KeralaFloods #KeralaFloodsHelpNeeded
+
+--- 101 | SCORE: 4 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+PLEASE HELP MY COUNTRY. Send items for makeshift tents, medicine, food for the diabetic, large water bottles, covers
+
+--- 102 | SCORE: 4 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+Haiti needs money, food, medicine, construction materials and drinking water.
+
+--- 103 | SCORE: 4 | POSITIVE: ['urgent', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+NO arrests for so-called looting! There must be emergency relief—be provided with water, food, medicine FREE OF CHARGE. #HurricaneHarvey
+
+--- 104 | SCORE: 4 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+@Delta - Kindly consider helping those affected by Hurricane Maria. We need a way to transport medicine, food/water, and generators.
+
+--- 105 | SCORE: 4 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+This situation is unacceptable! We need our people with water, food and medicines! #HurricaneMaria #Huracanmariapr #PrayforPuertoRico
+
+--- 106 | SCORE: 4 | POSITIVE: ['urgent', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+Help my country plz! Most ppl dont even know where its located. But hurricane Maria did. Plz retweet! FOOD, MEDICINE &amp; WATER NEEDED ASAP
+
+--- 107 | SCORE: 4 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+#Impeach #ImpeachTrump #Resist ὄ9 ὄ9  #PuertoRico desperately needs water, food, and medicine after #HurricaneMaria
+
+--- 108 | SCORE: 4 | POSITIVE: ['request', 'food', 'water', 'vulnerable'] | NEGATIVE: [] ---
+Puerto Rico needs help. Water, food, all baby products
+
+--- 109 | SCORE: 4 | POSITIVE: ['request', 'food', 'medicine', 'location'] | NEGATIVE: [] ---
+SOS: To all my friends in London - Please help us gather food and essentials for the victims of the deadly fire in Greece. In cooperation with the Greeks working at Imperial Hospital we created 2 collection points
+
+--- 110 | SCORE: 4 | POSITIVE: ['food', 'water', 'medicine', 'contact'] | NEGATIVE: [] ---
+Truck full of food, water, medicine, necessary cloths is coming from Mysore towards Ernakulam via Coimbatore Palakadu, if any body on the way require things, please contact 09686660226, 09686663294 Navaneeth Verified 11:00am(19th Aug) #KeralaFloodRelief #resources
+
+--- 111 | SCORE: 4 | POSITIVE: ['food', 'water', 'rescue', 'location'] | NEGATIVE: [] ---
+Attention all..in adlux convention centre (Angamaly) food n water is available.but no one approached till now .please pass it to all rescue camps near by #KeralaRescue #KeralaFloods
+
+--- 112 | SCORE: 4 | POSITIVE: ['urgent', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+#KeralaReliefFund urgent requirements food water medicines. To be delivered on time. It will take another 10-15 days for set back normal life #KeralaFloods
+
+--- 113 | SCORE: 4 | POSITIVE: ['people', 'food', 'water', 'location'] | NEGATIVE: [] ---
+More than 10000 people in UC college camp. Theres acute shortage of food and water. Vouched by a friend. Help from outside Aluva not able to reach the camp. Any contacts from inside Aluva? Please RT. #KeralaFloods #KeralaFloodRelief #StandWithKerala
+
+--- 114 | SCORE: 4 | POSITIVE: ['stranded', 'food', 'water', 'location'] | NEGATIVE: [] ---
+Hi everyone, lots of people still stranded in niranam, lots and lots, especially near mulamootil padi, panchayat mukku and naalkavala. No boats are going to these sides. Please alert someone and share, since many of them have no food or water. #keralafloods #KeralaFloodRescue
+
+--- 115 | SCORE: 4 | POSITIVE: ['urgent', 'request', 'food', 'water'] | NEGATIVE: ['donation'] ---
+@thevirdas Apart from food, Kerala also needs urgently Cleaning supplies, Womens sanitary products and water. Also please dont donate old clothes. Have seen old, torn even unwashed clothes in donation packets. ὤF #KeralaFloods
+
+--- 116 | SCORE: 4 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+Food availability is not a problem, but lack of drinking water is. Also, people need basic amenities like mosquito nets and medicines. It’s sunny here for the past few days, so it will help the water recede #KeralaFloods-@RandeepHooda
+
+--- 117 | SCORE: 4 | POSITIVE: ['urgent', 'medicine', 'location', 'contact'] | NEGATIVE: ['donation'] ---
+Urgent medical requirement@ Manjaly flood relief camp near North Paravoor, Ernakulam district. Most of the people in the camp are patients. Pls contribute. Contact: Aneesh -7012484667 #AHelpingHandForKerala #KeralaFloodRelief #Keralafloods #SOSKerala #IndiaForKerala
+
+--- 118 | SCORE: 4 | POSITIVE: ['urgent', 'food', 'water', 'vulnerable'] | NEGATIVE: [] ---
+#Urgent #KeralaFloods Require baby food (Cerelac kind of stuff to that can be used with boiled water) for over 5 relief camps in Ernakulam. There is a team ready to collect and deliver. Personally verified info. 9946000210 via #IreneElsaJacob #Malayala_Manorama
+
+--- 119 | SCORE: 4 | POSITIVE: ['urgent', 'food', 'water', 'medicine'] | NEGATIVE: [] ---
+#KeralaFloodRelief In addition to this large quantities of emergency food, water, medicines and other essential supplies, including additional allocation of foodgrains, as requested by the State was also made available
+
+--- 120 | SCORE: 4 | POSITIVE: ['request', 'food', 'medicine', 'vulnerable'] | NEGATIVE: [] ---
+Required items: Food (Non perishable) Sanitary Pads Undergarments Baby Food Medicines (General medicines: Anti fungal creams, Vicks, Paracetamol, Loose motion medicines etc.) Diapers Feeding Bottles Clothes (Good condition) Napkins #KeralaFloods #KeralaFloodRelief
+
+--- 121 | SCORE: 4 | POSITIVE: ['stranded', 'request', 'rescue'] | NEGATIVE: ['retweet'] ---
+RT @ElisaEstrada: #Canoa #fishingvillage need of heavy machinery #CAT 2 #rescue #people #Trapped under #debris from #Quake #Ecuador unde
+
+--- 122 | SCORE: 4 | POSITIVE: ['request', 'water', 'rescue', 'contact'] | NEGATIVE: [] ---
+@JoyAnnReid #Harvey If anyone needs water rescue in #Houston area,shld contact @USCG. Answered me quickly when trying to get friend rescued
+
+--- 123 | SCORE: 4 | POSITIVE: ['request', 'food', 'water', 'location'] | NEGATIVE: [] ---
+Near desperation? Need 10m meals and 8m liters of water per day delivered in an area the size of CT w/ no power and flooded roads
+
+--- 124 | SCORE: 4 | POSITIVE: ['people', 'request', 'food', 'location'] | NEGATIVE: [] ---
+Govt Highschool Polleathai. Alappuzha; 14km north side of Alappuzha through beach road. We need food for 300 people, bed sheets and undergarments. Please do something as soon as possible. +91 98468 40228 - Bijoy #Verified 9PM, 18/08 #KeralaFloods #KeralaFloodRelief
+
+--- 125 | SCORE: 4 | POSITIVE: ['people', 'request', 'water', 'location'] | NEGATIVE: [] ---
+Kottayam district Vaikom Govt. Higher secondary School, 6000 persons, need vegitables, grains, bananas, toppiocca, soap, drinking water. #KeralaFloodRelief
+
+--- 126 | SCORE: 4 | POSITIVE: ['urgent', 'food', 'vulnerable', 'location'] | NEGATIVE: [] ---
+Urgent Requirements To Trivandrum SMV School Biscuits Rusk Ready To Eat Snack bars Milk Powder Baby Food Candles Lighter Sanitary Pads Bleaching Powder #KeralaFloods #KeralaRescue #DoForKerala @BreakingViews4u @KottayamTheatrs @ThrissurTheatrs @Rockztar_1
+
+--- 127 | SCORE: 4 | POSITIVE: ['urgent', 'request'] | NEGATIVE: [] ---
+@msdhoni U might be aware of situation in Kerala right now. Kerala flood already costs more than 10k cr. rupees. We need immediate assistance for the relief programs. Could you please help us by donating some valuable amount to our CMs distress relief fund. #KeralaFloodRelief
+
+--- 128 | SCORE: 4 | POSITIVE: ['food', 'water', 'location', 'contact'] | NEGATIVE: ['retweet'] ---
+RT @TrendsSuriyaKL: • #Verified #KeralaFloods Food and Water Available For #Ernakulam District(Any Location ) Contact - 9037244838
+
+--- 129 | SCORE: 4 | POSITIVE: ['people', 'urgent', 'food', 'contact'] | NEGATIVE: [] ---
+*Urgent. Food for 50 people needed asap. New refugees at All Saints college* Anyone in #Trivandrum who can help? 9946441409 is their contact number. Called and verified #KeralaFloods
+
+--- 130 | SCORE: 4 | POSITIVE: ['vulnerable', 'medical_emergency'] | NEGATIVE: [] ---
+Therere fire survivors &amp; children tonight thru no fault of their own shivering, w/o comforts, MED care or loved ones (some dead, others missing or separated), homeless with sick in crowded shelters, cars, flimsy tents or cages, vulnerable, little hopeSend help/ release caged!
+
+--- 131 | SCORE: 4 | POSITIVE: ['stranded', 'request', 'rescue'] | NEGATIVE: ['retweet'] ---
+RT @KingJayZim: #CycloneIdai Now when the nation needs helicopters to rescue stranded villagers in e aftermath of #CYCLONEIDAI we r told so
+
+--- 132 | SCORE: 4 | POSITIVE: ['urgent', 'request'] | NEGATIVE: [] ---
+So we have more Urgent needs so please help us collect the following to complete our restarter packs! #FloodSL #KindnessCollective
+
+--- 133 | SCORE: 4 | POSITIVE: ['urgent', 'request'] | NEGATIVE: [] ---
+Since Hurricane Harvey hit, the need to find Houston shelter animals homes is now more urgent.
+
+--- 134 | SCORE: 4 | POSITIVE: ['urgent', 'request'] | NEGATIVE: [] ---
+#HarveyRelief #PortArthur Shelter needs supplies urgently
+
+--- 135 | SCORE: 4 | POSITIVE: ['urgent', 'request'] | NEGATIVE: [] ---
+Hurricane Irma - Families Urgently Need Shelter
+
+--- 136 | SCORE: 4 | POSITIVE: ['urgent', 'request'] | NEGATIVE: [] ---
+Urgent! A few of the #HurricaneIrma #shelter #dogs and #cats who need #NYC foster homes! Please apply here:
+
+--- 137 | SCORE: 4 | POSITIVE: ['urgent', 'request'] | NEGATIVE: [] ---
+A message from @TonyRobbins &amp; I as many still in need of immediate, temporary housing. Thanks Tony!
+
+--- 138 | SCORE: 3 | POSITIVE: ['stranded', 'food', 'medicine'] | NEGATIVE: [] ---
+@RealHughJackman Aadi, [19.08.18 14:27] Sir, Pls read and help , Im from Kerala in India our state have faced the most catastrophic flood known to me. Our cities and villages are flodded, thousands of people are stranded no food &amp; medicines. Help of any would save many life..
+
+--- 139 | SCORE: 3 | POSITIVE: ['food', 'water', 'medicine'] | NEGATIVE: [] ---
+@msnbc @cnn @cbs There are people in Salinas Ecuador that havevnot been reached. They are running out of food and water. Some medical issues
+
+--- 140 | SCORE: 3 | POSITIVE: ['people', 'stranded', 'water'] | NEGATIVE: [] ---
+8 kids and adult women stuck on rooftop on eastside. Water rising fast!! 12475 Woodforest Drive. @abc13houston @FoxNews #HurricaneHarvey
+
+--- 141 | SCORE: 3 | POSITIVE: ['food', 'water', 'medicine'] | NEGATIVE: [] ---
+#PuertoRico, where millions of Americans are left without power, access to food, clean water, or medical supplies. #climate #HurricaneMaria
+
+--- 142 | SCORE: 3 | POSITIVE: ['food', 'medicine', 'vulnerable'] | NEGATIVE: [] ---
+ZF is shipping requested relief items including baby food, milk, gas cook tops, and medical supplies. #PuertoRicoRelief #HurricaneMaria
+
+--- 143 | SCORE: 3 | POSITIVE: ['request', 'food', 'vulnerable'] | NEGATIVE: [] ---
+#keralafloods Need 50k food packets in kochi Rajiv gandhi indoor stadium. Pregnant ladies, old aged, kids are starving. @Zomato @UberEats @swiggy_in Can you guys help.
+
+--- 144 | SCORE: 3 | POSITIVE: ['food', 'water', 'medicine'] | NEGATIVE: [] ---
+Its been 51 days, Kashmir is burning. Limited supplies of food, water, medical equipment and not forgetting the recent #earthquake jolts that uprooted its areas. #RemoveCurfewInKashmir
+
+--- 145 | SCORE: 3 | POSITIVE: ['urgent', 'request', 'food', 'water', 'medicine'] | NEGATIVE: ['retweet', 'donation'] ---
+RT @GlobalGiving: Survivors of the 6.2M #ItalyEarthquake need emergency supplies like food, water, and medicine — donate today
+
+--- 146 | SCORE: 3 | POSITIVE: ['request', 'medicine', 'vulnerable'] | NEGATIVE: [] ---
+@AshDWallis Can you help? Medical / elderly man in need of nebulizer at 14422 Meyersville Dr. 77049 . (# 832-926-3474, Amburch) #Harvey
+
+--- 147 | SCORE: 3 | POSITIVE: ['food', 'water', 'vulnerable'] | NEGATIVE: [] ---
+.@realDonaldTrump-Send diapers, baby formula, water, food, etc. instead of yourself. Youre no help to anyone. #NoTrumpTexasTrip #Harvey
+
+--- 148 | SCORE: 3 | POSITIVE: ['people', 'request', 'vulnerable'] | NEGATIVE: [] ---
+@Teeeeethegee #HarveySOS #HarveyCNN please help this family!! Theres a 4 months old baby!! 3 adults and 2 pets!!!! @CNN @RedCross @TheEllenShow #Harvey
+
+--- 149 | SCORE: 3 | POSITIVE: ['urgent', 'medicine', 'vulnerable'] | NEGATIVE: [] ---
+Someone explain to me why we cant just skip the baby killing for two weeks? How many non medical emergency abortions are this urgent?
+
+--- 150 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+We’re getting people what they need to survive - food, water, shelter and other basic supplies. #Dominica #HurricaneMaria
+
+--- 151 | SCORE: 3 | POSITIVE: ['food', 'water', 'medicine'] | NEGATIVE: [] ---
+Let the world know! #SOSPuertoRico. Medicine, water, food, cash needed. 1 wk #HurricaneMaria @washingtonpost @CNN
+
+--- 152 | SCORE: 3 | POSITIVE: ['food', 'water', 'medicine'] | NEGATIVE: [] ---
+As rain stops in flood-ravaged #Kerala, focus now shifts to supply of food, water, and medicine; Flights to resume from #Kochi Naval air base from today #KeralaFloods #KeralaFloodRelief
+
+--- 153 | SCORE: 3 | POSITIVE: ['stranded', 'urgent', 'water'] | NEGATIVE: [] ---
+*Urgent help needed !!!* Aunt and family stranded in first floor of house along with 50 other people. One kid passed away one hour ago. Situation is getting worse as water level rises to first floor. #KeralaFloods #KeralaFloodRelief #KeralaSOS @Democratrodrigu @cinemasworld
+
+--- 154 | SCORE: 3 | POSITIVE: ['food', 'medicine', 'vulnerable'] | NEGATIVE: [] ---
+SOS requirment :- 1) Diapers 2) Baby food 3) Pediatric Medicines 4) Sanitary napkins @Suparna_Singh @jasuja @yashodhararaje @IPSMadhurVerma @rjraunac @calamur @ShereenBhan @TrishaBShetty @jiteshpillaai @shunalishroff @Aparna @rohitkhilnani @PriyaSometimes #KeralaFloodRelief
+
+--- 155 | SCORE: 3 | POSITIVE: ['stranded', 'rescue', 'location'] | NEGATIVE: [] ---
+Anyone knowing about #Rescue near #Chengannur plz send help to old grandparents stuck near lic chengannur. Plz share the word. They 80+age. #KeralaSOS #KeralaFloods
+
+--- 156 | SCORE: 3 | POSITIVE: ['stranded', 'food', 'location'] | NEGATIVE: [] ---
+This family is stranded without power supply &amp; food. Verified at 6.40 am today. #KeralaFlood Name: Vipin V Vijayan No.: 09048192989 Place: Thiruvanvandoor, Chengannur Google map coordinates: 9°2045.1N 76°3410.5E 9.345848, 76.569590 Map location:
+
+--- 157 | SCORE: 3 | POSITIVE: ['water', 'medicine', 'contact'] | NEGATIVE: [] ---
+At Karyavattom university campus based collection centre we are short of following items 1. Water bottles we prefer 1 litre bottle 2. First aid kit 3. Kids ware 4. Underwares 5. Pulses 6. Milk powder 7. Medicines kit 8. Chappals high demand contact 9446872821 (Sree) #KeralaFloods
+
+--- 158 | SCORE: 3 | POSITIVE: ['stranded', 'rescue', 'location'] | NEGATIVE: [] ---
+A family of five, including a 60 year old Aunty, is stranded at Kottayilkovilakam Rd, Ernamulam. They have been stranded on the terrace since last and no rescue teams have been able to reach as yet. #keralafloods Dropped pin near Arankavu, Kerala
+
+--- 159 | SCORE: 3 | POSITIVE: ['stranded', 'food', 'water'] | NEGATIVE: [] ---
+Any volunteers in Chetuva region, please connect. Few people are stuck without food, water or electricity. #verified #keralafloods #requiringhelp #KeralaSOS
+
+--- 160 | SCORE: 3 | POSITIVE: ['people', 'food', 'water'] | NEGATIVE: [] ---
+At least 500,000 people are waiting for food and water in Mozambique after Cyclone Idai hit Southern Africa and almost wiped out the city of Beira.
+
+--- 161 | SCORE: 3 | POSITIVE: ['stranded', 'water', 'vulnerable'] | NEGATIVE: [] ---
+Meanwhile, our borehole at the Chipinge office has been a life line for #women, #girls and #children in the community by providing the much needed water for drinking, cooking, washing and bathing since #CycloneIdai stuck two weeks ago #CycloneIdaiZW
+
+--- 162 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+I dont know who needs to hear this but your neighbors in need are just as deserving of food, water, and shelter as you are. Please keep them in mind if things take a turn for the worse with #HurricaneDorian
+
+--- 163 | SCORE: 3 | POSITIVE: ['request', 'medicine', 'location'] | NEGATIVE: [] ---
+Palm Beach Gardens Medical Center remains open to care for patients with medical needs, per its spokesman. It will continue to monitor the progress of #HurricaneDorian. The hospital is not a designated shelter.
+
+--- 164 | SCORE: 3 | POSITIVE: ['urgent', 'medicine', 'rescue'] | NEGATIVE: [] ---
+There are many small villages around main #jatlaan where no medical or rescue team has reached yet.Condition is worst there.If anyone can help 2 approach thz side by areas by any means plz do it immediately. @minhajwelfare @muslimhandspk @nazir_lord @ARYNEWSOFFICIAL #earthquake
+
+--- 165 | SCORE: 3 | POSITIVE: ['request', 'food', 'medicine'] | NEGATIVE: [] ---
+@POTUS Mr. President, Manabi-Ecuador needs help after Earthquake. We need humanitarian help, logistics, food, medicine. God Bless America!
+
+--- 166 | SCORE: 3 | POSITIVE: ['urgent', 'rescue', 'vulnerable'] | NEGATIVE: [] ---
+URGENT BABY rescue needed @houstonpolice @HoustonOEM @ArtAcevedo @KHOU @abc13houston @Fox26Houston
+
+--- 167 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+We need food and water at all shelters in port Arthur #portarthur #HurricaneHarvey
+
+--- 168 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+Dumpster 🔥! Traveling to No Dak with our tax dollars to have pep rally while people suffer in shelters &amp; need food &amp;water! #HurricaneHarvey
+
+--- 169 | SCORE: 3 | POSITIVE: ['urgent', 'food', 'water'] | NEGATIVE: [] ---
+URGENT HELP IS NEEDED, ANY PERSONAL CARE PRODUCTS, CLOTHES, BEDDING, MONEY &amp; MORE MONEY BUT SUPPLIES ARE NEEDED NOW, FOOD &amp; WATER PLZ HELP!
+
+--- 170 | SCORE: 3 | POSITIVE: ['stranded', 'water', 'rescue'] | NEGATIVE: [] ---
+#houston #harvey #rescue HELP! William Eric Devon Lacey unable to evacuate due to high water. 8714 cockburn st. Houston, Tx 77078.
+
+--- 171 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+The Houston Food bank is in dire need of funds to get food, water and supplies to families. Read how you can help:
+
+--- 172 | SCORE: 3 | POSITIVE: ['people', 'urgent', 'vulnerable'] | NEGATIVE: [] ---
+HELP NEEDED! 1 ADULT AND 5 CHILDREN 1 adult, 5 kids at 3733 platt ave Port Arthur 77640 #PortArthur #Harvey #HarveyFlood
+
+--- 173 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+@realDonaldTrump While FL, mainly the Keys r in a real disaster, our Islands r leveled Plse help them. They suffered #Irma at her worst They need Food&amp;Water
+
+--- 174 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+@FLOTUS @POTUS @fema Good they really need water and power and food ,gas in that area Crystal Rivers .Starting to flood down there and no supplys .
+
+--- 175 | SCORE: 3 | POSITIVE: ['request', 'water', 'vulnerable'] | NEGATIVE: [] ---
+You know I understand if you need water or bread or baby formula. But sneakers.
+
+--- 176 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+They are running out of food &amp; water &amp; really need our help #USVI #BVI #HurricaneIrma
+
+--- 177 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+They dont have food or #water: Caribbean islands need supplies after #HurricaneIrma: Miami Herald
+
+--- 178 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+They have no food. No water. No electricity. No gasoline. Hurry up and request the aid already. #PuertoRicoRelief
+
+--- 179 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+@SHAQ Shaq we really need help in Dominica hurricane Maria destroyed island! People need food water clothing Tarps blankets
+
+--- 180 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+Everything, Marco. They need everything. Start with food and water and the USS Comfort, proceed to statehood.
+
+--- 181 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+This US Army vet agrees. @POTUS we need to help our fellow Americans now! They need supplies, food, water &amp; a helping hand.
+
+--- 182 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+This our island after Hurricane Maria, for all latinos heaters, we arent asking for money. WE NEED WATER AND FOOD.
+
+--- 183 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+Official Needs List for Dominica (re Hurricane Maria) Food Water Roofing materials Lumber Plywood Windows Doors
+
+--- 184 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+People in #PuertoRico need water, food, generators &amp; so much more as an affect of being slammed by #HurricaneMaria -
+
+--- 185 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+@YousefErakat Please please!!!! My Island Puerto Rico needs help. Hurricane Maria devastated our Island. My people is in need of water&amp;food.
+
+--- 186 | SCORE: 3 | POSITIVE: ['request', 'medicine', 'location'] | NEGATIVE: [] ---
+Fast. The conditions are so bad. We need medical attention &amp; hospital supplies, where are the cruise ships like arrived in Miami?
+
+--- 187 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+My family are still without food/water. Rural communities have been cut off from aid/communication. #Dominica NEEDS HELP #HurricaneMaria
+
+--- 188 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+We do need food and water, so if you’re reading this, please #helpPuertoRico #hurricanemaria #mariapr #huracanmaria
+
+--- 189 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+Well done @ChefBoyardee. People Need Basic Food &amp; Water To Survive after back to back Hurricane Disasters. #HurricaneIrma #HurricaneMaria #PuertoRico #USVI
+
+--- 190 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+#PuertoRico American citizens in a disaster zone with no money, food, water, communications, infrastructure, security. They need our help.
+
+--- 191 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+The island is without power, food, and clean water. We need to spread the word-  #Time4Action #DoMoreGood
+
+--- 192 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+@popularbank @popular The people of Puerto Rico need cash to buy food and water. Help them. #HurricaneMaria #puertorico #ponce
+
+--- 193 | SCORE: 3 | POSITIVE: ['food', 'water', 'medical_emergency'] | NEGATIVE: ['general'] ---
+In the aftermath of Hurricane Maria, food and water will be critical to Puerto Rico’s recovery ahead and City
+
+--- 194 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+@PasqualeRotella Puerto Rico is seriously affected by Hurricane Maria We are in need of water, non perishable food, diapers, first aid kits.
+
+--- 195 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+Shared on #HurricaneMaria Facebook update groups. Says: need food &amp; water, from Humacao, #PuertoRico- help my people! @realDonaldTrump
+
+--- 196 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+Please help all NGOs and all the people who are going to Kerala by either giving food or water or supplys or money for the people in Kerala #KeralaReliefFund #KeralaRains #KeralaFloodRelief #KeralaFloodRescue
+
+--- 197 | SCORE: 3 | POSITIVE: ['request', 'food', 'location'] | NEGATIVE: [] ---
+Hello #thrissur we need more food to this camp, banana, biscuits, bread etc. Please share and coordinate with Adv Shobby 9847556550 #KeralaFloodRelief
+
+--- 198 | SCORE: 3 | POSITIVE: ['urgent', 'food', 'water'] | NEGATIVE: [] ---
+TVM UPDATE: SUPPLIES NEEDED AT KINFRA APPAREL PARK READ TO EAT FOOD PACKETS AND WATER NEEDED URGENTLY #KeralaFloods #KeralaFloods2018 #DoForKerala #KeralaFloodRelief #KeralaSOS #KeralaFlood #KeralaReliefFund #Kerala #KeralaFloodRescue
+
+--- 199 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+Verified Current Status: Need food and water #KeralaFloods #KeralaFloodsHelpNeeded @KeralaSDMA @kerala_rescue @ndmaindia
+
+--- 200 | SCORE: 3 | POSITIVE: ['people', 'food', 'location'] | NEGATIVE: [] ---
+Food for approximately 100 people. Betadine, cotton and tapes Aaron - +91 96053 08377 Location - Alangadu Ernakulam district. Verified at 10.51 am 23/8/2018 #KeralaFloods #KeralaFloodRelief #Ernakulam
+
+--- 201 | SCORE: 3 | POSITIVE: ['request', 'water', 'rescue'] | NEGATIVE: [] ---
+Shocking Reports of people refusing to leave behind their homes to go with the rescue teams hoping for the water to subside Please help the rescue teams and the government. They are risking their lives to save you. Let common sense prevail #KeralaFloods
+
+--- 202 | SCORE: 3 | POSITIVE: ['request', 'food', 'medicine'] | NEGATIVE: [] ---
+@JustinTrudeau Thank you for your prayers, But now we need food, medicine, financial support. I wish a true Canadian could understand our pain #KeralaFlood
+
+--- 203 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+Attention Volunteers Biscuits, bread, packed food and water required at Kaloor metro station to be taken to Aluva. Please cooperate as much as u can ph: 9447392208 #KeralaFloods #KeralaFloodRelief @CarDroidusMax @chief_tribal @ajithkunjunny @inquestioner @PishuMon
+
+--- 204 | SCORE: 3 | POSITIVE: ['request', 'medicine', 'contact'] | NEGATIVE: [] ---
+Need help to arrange a vehicle from trivandrum to ranni , Medical and Sanitary items , Doctors are waiting Contact Number : 8943307136 @vikramanmuthu @kuttanmaash #KeralaFloodRelief #resource
+
+--- 205 | SCORE: 3 | POSITIVE: ['stranded', 'rescue', 'location'] | NEGATIVE: [] ---
+No rescue operations have reached kodiyattakara, mundencavu, Chengannur. Family still stranded there. Opposite Krishnaswamy temple. Any help would be appreciated. #keralafloods
+
+--- 206 | SCORE: 3 | POSITIVE: ['food', 'water', 'contact'] | NEGATIVE: [] ---
+We have excess food ,water, cloths , please contact freely 7736737107,9895431520 - palarivattom Ernakulam Share maximum #SOSKerala #KeralaFloodRelief
+
+--- 207 | SCORE: 3 | POSITIVE: ['people', 'food', 'location'] | NEGATIVE: [] ---
+There is a #food requirement for food for 500 people at L.P school Kottappuram, #Aluva . #KeralaFloodRequest #KeralaFloodRelief Tagging @goonj @vinayaravind @KaapiRight @Akkyllees @akosotto @crazytwism @joele__ @vip_nair @thebhavyeah @iKamranShahid #KeralaSOS
+
+--- 208 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+Electricity, food and drinking water issues in flood affected areas #KeralaFloods The main issue right now is people dont have drinking water, please help by donating drinking water ὤFἿB @CocaCola_Ind @PepsiIndia @TGBL @bailey @anandmahindra @BisleriZone #KeralaFlooding
+
+--- 209 | SCORE: 3 | POSITIVE: ['urgent', 'food', 'vulnerable'] | NEGATIVE: [] ---
+#urgent Material requirements in #Thrissur Rusk, biscuit, baby food, candles, match box, lighter, Blankets, glucose, bread, bananas (Nenthrapazham), sugar needed at Thopp stadium relief centre. BABY FOOD IS PRIORITY. #KeralaFloods #KeralaFloodRelief #KeralaSOS
+
+--- 210 | SCORE: 3 | POSITIVE: ['people', 'request', 'food'] | NEGATIVE: [] ---
+#kottayam cheepunkal #KeralaFloodRelief #KeralaFloods #KeralaSOS Request #45292 Requirement for 200 people . They can cook. Need food materials.
+
+--- 211 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+The only toilet in the house was overflowing &amp; the well water was dirty. The well has to be cleaned. We need water to drink and to prepare food. The toilet has to be repaired. After all this, we can think of moving back.  #KeralaFlood #India #sanitation
+
+--- 212 | SCORE: 3 | POSITIVE: ['request', 'food', 'rescue'] | NEGATIVE: [] ---
+40+ people suffering , please help via choppers or rescue team.. food required #KeralaFloodRelief #KeralaFloods #KeralaSOS
+
+--- 213 | SCORE: 3 | POSITIVE: ['request', 'vulnerable', 'location'] | NEGATIVE: [] ---
+Baby2Baby is working to get high-need items to children affected by the ongoing Camp Fire, Hill Fire &amp; Woolsey Fire in CA. Help us put diapers, wipes &amp; other essentials into the hands of families who have lost everything by purchasing from our registry:
+
+--- 214 | SCORE: 3 | POSITIVE: ['request', 'food', 'vulnerable'] | NEGATIVE: [] ---
+Majority of the people (over 2, 300) affected by #IdaiCyclone in T/A Chiwalo, Phalombe, are women &amp; children in need of food. This is according to Lawrence Msonthi, Area Development Committee (ADC) chairman. #GENETResponse #EmergencyRelief #MalawiFloods2019 #CycloneIdai
+
+--- 215 | SCORE: 3 | POSITIVE: ['request', 'food', 'vulnerable'] | NEGATIVE: [] ---
+#CycloneIdai has united the nation yet one thinks when is not around people mustnt eat. Food is a basic need. Even Maslow noted this. Children need to eat. Now breastfeeding mothers cant produce milk as they do not have nutrients to digest. One has put a pause till tomorrow
+
+--- 216 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+#Mozambique #IDAI People need food, they need water, reports Hubert Neuwirth from @ADCinMozambique @radiofm4 #MozambiqueFloods2019 @chrisccummins
+
+--- 217 | SCORE: 3 | POSITIVE: ['people', 'request', 'food'] | NEGATIVE: [] ---
+#Malawi- #CycloneIdai has affected 15 districts and left behind some 730,000 people in need of food assistance. @WFP together with @UNMalawi agencies are working tirelessly around the clock to provide relief to victims of the floods.Ὂ6
+
+--- 218 | SCORE: 3 | POSITIVE: ['request', 'food', 'water'] | NEGATIVE: [] ---
+#Beira mayor states main needs as food, water, sanitation and zinc roofing sheets to replace those blown off so many houses. Which agencies are providing these things? #CycloneIdai
+
+--- 219 | SCORE: 3 | POSITIVE: ['request', 'food', 'contact'] | NEGATIVE: [] ---
+How can I sleep, knowing Hurricane Dorian is barreling towards us? I have made a ton of ice &amp; have a hundred batteries &amp; cell phone chargers, need more gas &amp; more food for family &amp; more ready cash; can’t evacuate.
+
+--- 220 | SCORE: 3 | POSITIVE: ['urgent', 'request', 'food'] | NEGATIVE: ['donation'] ---
+We need help buying emergency food boxes filled w/ food &amp; items #Harvey victims can use. Make a monetary donation:
+
+--- 221 | SCORE: 3 | POSITIVE: ['request', 'rescue', 'contact'] | NEGATIVE: [] ---
+🚨If you have a boat please call 713-881-3100 and work with @hcfmo to help those neighbors in need. #hurricaneharvey #houwx #hounews #harvey
+
+--- 222 | SCORE: 3 | POSITIVE: ['request', 'medicine', 'location'] | NEGATIVE: [] ---
+I dont know if hospital ships, a carrier or airlifts are possible, or how feasible launching aerostats for comms is. #PR &amp; #USVI need help.
+
+--- 223 | SCORE: 3 | POSITIVE: ['request', 'medicine', 'location'] | NEGATIVE: [] ---
+These folks wont last another 8 days waiting for that hospital ship to finally arrive. THEY NEED HELP NOW!
+
+--- 224 | SCORE: 2 | POSITIVE: ['food', 'medicine'] | NEGATIVE: [] ---
+Thirty of Amrita Vidyalayam schools in the state have become #KeralaFloodRelief camps. They are providing shelter, food, clothing, toiletries and medical care. #KeralaFloods #Amma #Amritanandamayi
+
+--- 225 | SCORE: 2 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: ['retweet'] ---
+RT @unicefaustralia: #Pedernales is devastated, says the Mayor. We need medicine, water and food to help people. #EcuadorEarthquake htt
+
+--- 226 | SCORE: 2 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: ['retweet'] ---
+RT @manuelapicq: Ecuadors coastal towns in need of water, food, medicine and electricity.
+
+--- 227 | SCORE: 2 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: ['retweet'] ---
+RT @GlobalGiving: The #ItalyEarthquake has caused significant damage. Survivors need your help to access food, water, and medicine.
+
+--- 228 | SCORE: 2 | POSITIVE: ['water', 'vulnerable'] | NEGATIVE: [] ---
+@Teeeeethegee water is now rising at our home. 4248 vassar st port arthur tx! we have a 4month old baby #HarveyRescue #harvey
+
+--- 229 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Affected by #Harvey? Dial 2-1-1 for information about shelter, food, water, and other resources. More info:
+
+--- 230 | SCORE: 2 | POSITIVE: ['people', 'request'] | NEGATIVE: [] ---
+Tropical storm Harvey: 30,000 people will need shelter after flooding in Texas - live  #Harvey #Houston #TexasFlood
+
+--- 231 | SCORE: 2 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: ['retweet'] ---
+RT @samroza: RT ResistanceParty RT CNNImpact: #PuertoRico desperately needs water, food, and medicine after #HurricaneMaria de .
+
+--- 232 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+The #KeralaFloods has been terrible to the people, and its expected to get worse. Please do support the victims so they get their basic necessities of food, shelter and water. #SOSKerala #KeralaFloodRelief
+
+--- 233 | SCORE: 2 | POSITIVE: ['request', 'food', 'water', 'medicine'] | NEGATIVE: ['donation'] ---
+More than financial donations, #KeralaFloods #KodaguFloods need donations in terms of blankets, clothes, food items, drinking water, medicines, etc. Reach out to org working on ground to donate.
+
+--- 234 | SCORE: 2 | POSITIVE: ['request', 'food'] | NEGATIVE: [] ---
+The Incessant rains have created a havoc here in Kerala as many lives are lost, People have become homeless,no food to eat, no clothes to wear. Please help us trend these hashtags, Your 1 RT can save a life #KeralaFloodRelief #StandWithKerala #PrayForKerala #ARMYsforKerala
+
+--- 235 | SCORE: 2 | POSITIVE: ['request', 'medicine'] | NEGATIVE: [] ---
+Kerala needs electricians, plumbers, carpenters, painters. Medical attendants. Doctors. Do NOT send useless things like matchboxes and old clothes. #KeralaFloods
+
+--- 236 | SCORE: 2 | POSITIVE: ['water', 'medicine'] | NEGATIVE: [] ---
+.@ArtOfLiving begins Project #SriAbhayam to aid flood ravaged tribal areas in Kerala. Trauma relief &amp; medical camps, sanitation facilities, water purifiers, solar lanterns, student scholarships, skill development etc ensure a unique 360° approach to sustainable development.
+
+--- 237 | SCORE: 2 | POSITIVE: ['request', 'food'] | NEGATIVE: [] ---
+We dont need the help with the fireswe need the help now with food shelter and other necessities for these people
+
+--- 238 | SCORE: 2 | POSITIVE: ['request', 'water'] | NEGATIVE: [] ---
+More aid is getting through to those affected as #FloodSL waters recede but #health shelter &amp; #water are key needs
+
+--- 239 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Hand hygiene, cleaning and covering wounds, clean water, food, and sanitation - the basics of prevention - all can make a difference.
+
+--- 240 | SCORE: 2 | POSITIVE: ['request', 'food'] | NEGATIVE: [] ---
+Anything will help, in need of food and toiletries!! I cant return to work due to the flooding. Struggling to make ends meet please help!
+
+--- 241 | SCORE: 2 | POSITIVE: ['request', 'medicine'] | NEGATIVE: [] ---
+Have heard medical supplies are needed at the #Beaumont airport, colostomy bags, catheters, syringes, many in need.#HarveyNeeds #Harvey
+
+--- 242 | SCORE: 2 | POSITIVE: ['request', 'location'] | NEGATIVE: [] ---
+#Harvey NEED SHELTER: AVAIL to ALL FAITHS-Sacred Heart Catholic Church Shelter at 704 Old Montgomery Rd, Conroe, TX
+
+--- 243 | SCORE: 2 | POSITIVE: ['food', 'vulnerable'] | NEGATIVE: [] ---
+Items that are needed are clothes, food, and toiletries. Baby items and food. Anything that is useful, everything helps. #Austin #harvey
+
+--- 244 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+#StThomas residents still w/out food, water, fuel after #HurricaneIrma devastated #USVirginIslands  @hereandnow @NPR
+
+--- 245 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+PARADISE LOST: Crippled Caribbean islands running out of food, water after Irma  #Irma
+
+--- 246 | SCORE: 2 | POSITIVE: ['request', 'food'] | NEGATIVE: [] ---
+Hurricane Irma: Golden Gate cat shelter gets generators from community, needs gas and food
+
+--- 247 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Food, water and fuel are running out on the Puerto Rican island of Vieques. Fear is spreading
+
+--- 248 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Food and water en route to #PuertoRico and #StCroix by @usairforce:
+
+--- 249 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+@BillGates Could you help with the disaster in Puerto Rico? Theyre starving, no water, no shelter, no sanitation after Hurricane Maria.Ὁ4ὢ8
+
+--- 250 | SCORE: 2 | POSITIVE: ['request', 'medicine'] | NEGATIVE: [] ---
+Think about this!! What happens to our vulnerable communities? Those in hospitals, our nursing homes, who have medical needs, etc? #MariaPR
+
+--- 251 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Dire reports of tens of thousands of people in #PuertoRico without food, water and power-the governor is asking the #PENTAGON for help:
+
+--- 252 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+PEOPLE IN DOMINICA ARE STILL WITHOUT FOOD AND WATER!!!!!!
+
+--- 253 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+3.6 million US Citizens in #PuertoRico without food, water, power, gas where is the outrage? Where is the media coverage? #HurricaneMaria
+
+--- 254 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Help @realDonaldTrump the Puerto Rican GOvt is withholding from its citizens the food and water that we have sent as aid.
+
+--- 255 | SCORE: 2 | POSITIVE: ['food', 'medicine'] | NEGATIVE: [] ---
+Puerto Rico, short on fuel, cannot deliver food and medicine to the victims of Hurricane Maria
+
+--- 256 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+The distribution of food and water in Puerto Rico is painfully slow eight days after Hurricane Maria, Pres. Trump
+
+--- 257 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+#HelpPuertoRico #HurricaneMaria water, food, security
+
+--- 258 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Some video of Puerto Rico. No power, no gas, no food and no water! #PuertoRico #PuertoRicoRelief #HurricaneMaria
+
+--- 259 | SCORE: 2 | POSITIVE: ['request', 'rescue'] | NEGATIVE: [] ---
+please share, so many animals in need of rescue and shelter as well Ὁ4ὡ4
+
+--- 260 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+@potus American citizens in Puerto Rico are Dying due to lack of meds, food, water &amp; fuel! U ALONE R RESPONSIBLE !
+
+--- 261 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Play the hero rather than the dick, @realDonaldTrump Food, water, fuel needed on Vieques, USA. #PuertoRicoRelief
+
+--- 262 | SCORE: 2 | POSITIVE: ['request', 'food'] | NEGATIVE: [] ---
+#GCFest: #Celiac, I need your #support for #glutenfree #food in #shelter in #NaturalDisaster, like #HurricaneMaria #hurrcaneirma @RedCross
+
+--- 263 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Food, water, power, gasoline desperately needed in #PuertoRico. Not tomorrow, not next week, but NOW.
+
+--- 264 | SCORE: 2 | POSITIVE: ['request', 'medicine'] | NEGATIVE: [] ---
+Heartbreaking. Yabacoa was hit directly by Category 5 #HurricaneMaria. Lots of people in need of medical help! #PuertoRicoRelief
+
+--- 265 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+PR residents have gone without water, food, power and gas since Hurricane Maria made landfall 10 Days ago. Water, food, power &amp; gas.
+
+--- 266 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Food, water, power, gasoline desperately needed in Puerto Rico
+
+--- 267 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Rihanna Begs Donald Trump Not To Let Puerto Ricans Die: They Have No Food &amp; Water  #PuertoRico #HurricaneMaria
+
+--- 268 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+@osarsg This collection center in Del Valle, Mexico was set up to help distribute water, food, lanterns and batteries after the earthquake.
+
+--- 269 | SCORE: 2 | POSITIVE: ['vulnerable', 'medical_emergency'] | NEGATIVE: ['donation'] ---
+Plz consider donating to help victims of the catastrophic Greek fires (at least 74 dead so far, 200+ injured, including dozens of children) Even small donation makes a difference  #Greece #PrayForGreece #GreeceFires #Πυρκαγιά #πυρκαγιές @HellenicLeaders
+
+--- 270 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+@pratheesh @Plingmyaan 300000 FOOD PCKTS, 600000 MT MILK , 1400000 LTRS OF WATER, 150 PORTABLE WATER PURIFIERS CAPACITY OF 100000 LTR WATERS. WE ALL ARE HAPPY TO SAY UAE IS HELPING OMAN HELPING, BUT NOT READY TO ACCEPT THE FACTS ON GROUND. #KeralaFloodRelief
+
+--- 271 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+An internal message on a relief group. A group of migrant labourers have been put on the Antyodaya Express from Ernakulam. They do not have enough food and water. Whoever can, please get to them at Thrissur, Palakkad. They must not leave our land hungry. #KeralaFloods #Kerala
+
+--- 272 | SCORE: 2 | POSITIVE: ['request', 'water'] | NEGATIVE: [] ---
+हम #KeralaFloods के लिए जम्मू से 1000 litre pack drinking water #Kerala भेजना चाहते है। Please Help us @flyspicejet @goairlinesindia @airvistara @jetairways Regards Rohit Choudhary National President Kisan Welfare Organisation @KisanWelfareOrg
+
+--- 273 | SCORE: 2 | POSITIVE: ['water', 'medicine'] | NEGATIVE: [] ---
+#CISF personnel distributed eatables, medicines, drinking water, clothing and footwear to the flood-affected people at #KeralaFloodRelief camps. #KeralaFloods
+
+--- 274 | SCORE: 2 | POSITIVE: ['water', 'vulnerable'] | NEGATIVE: [] ---
+That night was terrifying. Had it not been for the surpanch my entire family would have drowned. The water is not at all drinkable and I am helpless how to feed my children. I have lost everything - Ullipi Amma #KeralaFloods To help, please visit
+
+--- 275 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Nature has done her Work n doing her work #KeralaFloods Now its our turn to work(Help) for Kerala.They are our father, mother brothers, sisters.They are our family #KeralaFloodRelief Pls help them.Try to send food materials n water first.They are too much suffering #AllForKerala
+
+--- 276 | SCORE: 2 | POSITIVE: ['medicine', 'location'] | NEGATIVE: [] ---
+Two Medical teams of Composite Hospital, Pallipuram conducted Medical Camps at Taluk Hospital, Thiruvalla and Taluk Hospital, Ranni of Pathanamthitta district. 367 patients suffering from various diseases due to #KeralaFloods were attended by the teams.
+
+--- 277 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+We urge all battling #KeralaFloods To avail food and water at Adlux Convention Centre. Inviting all: Adlux Convention Center Angamaly, Cable Junction, Ernakulam Dist, NH 47, Karukutty, Kerala 0484 261 2527  @KeralaPMC @Oommen_Chandy @ShashiTharoor
+
+--- 278 | SCORE: 2 | POSITIVE: ['people', 'rescue'] | NEGATIVE: [] ---
+10,000 People will die if you dont provide enough support with helicopters to Airlift people since many are isolated in flood areas around chengannur, Kerala. Both Pampa and Achankovil rivers are flooded and heavily affecting these areas in no time . #KeralaSOS #Chengannur
+
+--- 279 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Alappuzha sree ayyappa college students are stucked in their hostel. One of my cousin is also there with them. There is No electricity, no food, no water they are suffering alot. Plzzzz someone help themm ὢDὢD #PrayForKerala #KeralaFloodRelief #StaySafeKerala #StandWithKerala
+
+--- 280 | SCORE: 2 | POSITIVE: ['medicine', 'vulnerable'] | NEGATIVE: [] ---
+#IndiaForKerala Items preferred Bathroom cleaning stuff Dettol, Sanitary pads, Napkins Blankets, kids and baby wear Bed Sheets Ready to eat canned foods Medicines #Keralafloods
+
+--- 281 | SCORE: 2 | POSITIVE: ['request', 'medicine'] | NEGATIVE: [] ---
+Medicines required from paracetamol, betadine, candid b, cough syrup and more at flood hit areas in Kochi. Can you please help out? @SunPharma_Live @PharmacyIndian #KeralaFloodRelief #KeralaFloods #KeralaRain #volunteers
+
+--- 282 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Are you in Thrissur and want to help out with relief measures? Pls send water bottles, food items you want to send to relief camps to Thrissur Collectorate. Relief items are being sorted and sent to camps from here. #KeralaFloods #KeralaFloodRelief
+
+--- 283 | SCORE: 2 | POSITIVE: ['request', 'medicine'] | NEGATIVE: [] ---
+#Kerala connect me to who need this, a kind soul wants to help. Do RT I am a juvenile diabetic &amp; I realised need for insulin vials &amp; needles. If, you know anyone who is involved in sending medical kits, I would be happy to sponsor for some of these life-saving medicines
+
+--- 284 | SCORE: 2 | POSITIVE: ['request', 'water'] | NEGATIVE: [] ---
+A huge disaster seems to be unfolding in Kerala. Water levels still rising in many places. Time for every one of us to provide whatever support &amp; help we can. And media friends, a sincere request NO POLITICS PLEASE. @CMOTamilNadu now is the time to help save lives #KeralaFloods
+
+--- 285 | SCORE: 2 | POSITIVE: ['water', 'rescue'] | NEGATIVE: [] ---
+Guys still they are not reachable. when we spoke last time they said they moved to 1st floor due to water log in ground floor. Pls share the reachable rescue team numbers. @CMOKerala @Actor_Siddharth @rameshlaus Pls share..
+
+--- 286 | SCORE: 2 | POSITIVE: ['request', 'medicine'] | NEGATIVE: [] ---
+@JPNadda ji, please help us with medicines and sanitation as we are planning to help the people clean home and we don’t want and epidemic outbreak. Conducting camps and we need basic medicines! Thank you. #KeralaFlood #KeralaNeedsHelp
+
+--- 287 | SCORE: 2 | POSITIVE: ['food', 'medicine'] | NEGATIVE: [] ---
+The real situation is not the unavailability of food and medicine. The biggest problem is the inability to reach them. No good motor boats. No experienced rescuers other than local inhabitants . #KeralaFloods #KeralaNeedsArmyHelp Please copy this and tweet
+
+--- 288 | SCORE: 2 | POSITIVE: ['request', 'vulnerable'] | NEGATIVE: [] ---
+Anyone across the globe ἰD can help us. Goto , choose an NGO &amp; buy clothes, diapers, sanitary pads etc for the children &amp; others. #Kerala needs you now. This is the time to help &amp; show your love. Football Twitter, we need you ὤFἿB #KeralaFloods
+
+--- 289 | SCORE: 2 | POSITIVE: ['food', 'medicine'] | NEGATIVE: [] ---
+கேரளாவிற்கு தேவையான பொருட்கள் Ὄ3 ὄ9 Diapers ὄ9 Soap ὄ9 Toothbrush ὄ9 Towels ὄ9 Lungis ὄ9 Medicine crocin, cough syrup ὄ9 Packed food ὄ9 Candles ὄ9 Milk powder ὄ9 Match box ὄ9 Footwear ὄ9 Torch ὄ9 Bedsheets ὄ9 Blankets ὄ9 Umbrella ὄ9 Large cardboard box #KeralaFloodRelief ὤFὤFὤF
+
+--- 290 | SCORE: 2 | POSITIVE: ['request', 'food'] | NEGATIVE: [] ---
+In an SOS situation, we don’t need food, clothing, shelter anymore! ὤ4 Iski umar ho gayi hai @jigneshmevani80 send her to Himalaya please!
+
+--- 291 | SCORE: 2 | POSITIVE: ['food', 'medicine'] | NEGATIVE: [] ---
+WATCH- #KeralaFloods: Aircraft drops medicines and ready-to-eat food at #UCCollege in #Aluva, #Kerala #KeralaReliefFund #KeralaFloodRelief
+
+--- 292 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+How you pack for hurricane coverage with @TheNOWtv . One suitcase with food and water only ! #HurricaneFlorence
+
+--- 293 | SCORE: 2 | POSITIVE: ['food', 'location'] | NEGATIVE: [] ---
+Good Friend Geoff Reed who lived in Paradise California was evacuated on Thursday from the fires with his two girls. They have lost everything in the Camp Fire in Paradise. Current assistance is needed for housing, clothing, food for Geoff and the kids
+
+--- 294 | SCORE: 2 | POSITIVE: ['request', 'medicine'] | NEGATIVE: [] ---
+I’m thinking someone may need a puff of Medical Marijuana called: Ornamental Pruning Skills ᾓ7‍♀️
+
+--- 295 | SCORE: 2 | POSITIVE: ['food', 'medicine'] | NEGATIVE: [] ---
+#TeamEconet on the ground ensuring relief supplies reach those affected by #CycloneIdai Distribution of food, blankets &amp; medicine is underway!
+
+--- 296 | SCORE: 2 | POSITIVE: ['request', 'rescue'] | NEGATIVE: [] ---
+Just over a week ago, catastrophic Cyclone Idai swept through Mozambique, Malawi and Zimbabwe. This week, flooding remains severe but rescue operations are continuing and aid is getting through. People need help now:
+
+--- 297 | SCORE: 2 | POSITIVE: ['urgent', 'medicine'] | NEGATIVE: [] ---
+.@WHO has been supporting the Government of #Mozambique in co-ordinating the deployment of 21 Emergency Medical Teams that will treat populations affected by #CycloneIdai. Some of the teams are from other countries in #Africa. w/ @OMSMocambique
+
+--- 298 | SCORE: 2 | POSITIVE: ['vulnerable', 'location'] | NEGATIVE: [] ---
+Referral requests! Have any suggestions for these community members? 1. Is there a Loveland location to where things like clothing, baby items, etc. can be donated for Nebraska flood victims? 2. Recommendation
+
+--- 299 | SCORE: 2 | POSITIVE: ['stranded', 'water'] | NEGATIVE: [] ---
+@bethbjb @nowthisnews @Bernard_Michel1 Pine Ridge Reservation, Nebraska. They are in dire, dire straits. If you have any contacts who are able to at least truck them in some water, via tanker or other large vessel, this is whats desperately sought after right now. They are trapped, with addl snow on the ground.
+
+--- 300 | SCORE: 2 | POSITIVE: ['food', 'water'] | NEGATIVE: [] ---
+Now I understand what it means when a city runs out of food and water prior to hurricane landfall. The perfect welcome. #HurricaneDorian ὠ5
